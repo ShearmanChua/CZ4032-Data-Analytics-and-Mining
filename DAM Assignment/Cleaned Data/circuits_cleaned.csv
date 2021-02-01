@@ -1,0 +1,74 @@
+﻿circuitId,name,country,turns,lap_length,race_laps,race_distance,max_speed,drs_zone,full_throttle_percentage,longest_flatout_section,downforce_level,gear_changes_per_lap
+1,Albert Park Grand Prix Circuit,Australia,16,5.303,58,307.574,321.1,2,0.77,843,High,46
+2,Sepang International Circuit,Malaysia,15,5.543,56,310.408,329,2,0.45,1029,High,40
+3,Bahrain International Circuit,Bahrain,15,5.412,57,308.238,329.6,2,0.72,1205,Medium,56
+4,Circuit de Barcelona-Catalunya,Spain,16,4.655,66,307.104,332,2,0.72,1310,High,45
+5,Istanbul Park,Turkey,14,5.338,58,309.396,321.4,2,0.69,1200,High,46
+6,Circuit de Monaco,Monaco,19,3.337,78,260.286,290,1,0.34,669,High,47
+7,Circuit Gilles Villeneuve,Canada,14,4.361,70,305.27,315.5,2,0.76,1190,Medium,52
+8,Circuit de Nevers Magny-Cours,France,17,4.412,70,308.84,215.5,2,0.65,1000,Medium,45
+9,Silverstone Circuit,UK,18,5.891,52,306.332,329.5,2,0.7,1034,High,40
+10,Hockenheimring,Germany,17,4.574,67,306.458,313,2,0.535,1240,Medium,40
+11,Hungaroring,Hungary,14,4.381,70,306.67,315,2,0.5,908,High,28
+12,Valencia Street Circuit,Spain,25,5.419,57,308.883,318,2,0.63,930,Medium,64
+13,Circuit de Spa-Francorchamps,Belgium,19,7.004,44,308.052,319.6,2,0.7,2015,Medium,42
+14,Autodromo Nazionale di Monza,Italy,11,5.793,53,306.72,350,2,0.84,1520,Low,36
+15,Marina Bay Street Circuit,Singapore,23,5.065,61,308.965,323,3,0.49,832,High,70
+16,Fuji Speedway,Japan,16,4.563,67,305.416,310,0,0.6,1445,Medium,44
+17,Shanghai International Circuit,China,16,5.451,56,305.066,348,2,0.54,1397,High,51
+18,Autodromo Jose Carlos Pace,Brazil,15,4.309,71,305.909,310,2,0.5,1394,High,42
+19,Indianapolis Motor Speedway,USA,13,3.925,80,314.015,214.921,0,0.5,1295,High,54
+20,Nurburgring,Germany,15,5.148,60,308.88,316,2,0.7,800,High,60
+21,Autodromo Enzo e Dino Ferrari,Italy,21,4.933,60,300,222.67,2,0.59,900,Medium,60
+22,Suzuka Circuit,Japan,18,5.807,53,307.471,328,1,0.66,994,High,48
+23,A1-Ring,Austria,10,,,,,,,,,
+24,Yas Marina Circuit,UAE,21,5.554,55,305.355,339,2,0.59,1233,High,56
+25,Autodromo Juan y Oscar Galvez,Argentina,14,,,,,,,,,
+26,Circuito de Jerez,Spain,13,,,,,,,,,
+27,Autodromo do Estoril,Portugal,13,,,,,,,,,
+28,Okayama International Circuit,Japan,13,,,,,,,,,
+29,Adelaide Street Circuit,Australia,16,,,,,,,,,
+30,Kyalami,South Africa,16,,,,,,,,,
+31,Donington Park,UK,12,,,,,,,,,
+32,Autodromo Hermanos Rodriguez,Mexico,17,4.304,71,305.354,349,2,0.45,1200,High,52
+33,Phoenix street circuit,USA,15,,,,,,,,,
+34,Circuit Paul Ricard,France,15,,,,,,,,,
+35,Korean International Circuit,Korea,18,5.621,55,308.96,313,2,0.62,1125,Medium,54
+36,Autodromo Internacional Nelson Piquet,Brazil,13,,,,,,,,,
+37,Detroit Street Circuit,USA,24,,,,,,,,,
+38,Brands Hatch,UK,9,,,,,,,,,
+39,Circuit Park Zandvoort,Netherlands,14,,,,,,,,,
+40,Zolder,Belgium,10,,,,,,,,,
+41,Dijon-Prenois,France,9,,,,,,,,,
+42,Fair Park,USA,23,,,,,,,,,
+43,Long Beach,USA,11,,,,,,,,,
+44,Las Vegas Street Circuit,USA,14,,,,,,,,,
+45,Jarama,Spain,11,,,,,,,,,
+46,Watkins Glen,USA,11,,,,,,,,,
+47,Scandinavian Raceway,Sweden,8,,,,,,,,,
+48,Mosport International Raceway,Canada,10,,,,,,,,,
+49,Montjuic circuit,Spain,12,,,,,,,,,
+50,Nivelles-Baulers,Belgium,7,,,,,,,,,
+51,Charade Circuit,France,18,,,,,,,,,
+52,Circuit Mont-Tremblant,Canada,15,,,,,,,,,
+53,Rouen-Les-Essarts,France,13,,,,,,,,,
+54,Le Mans,France,11,,,,,,,,,
+55,Reims-Gueux,France,7,,,,,,,,,
+56,Prince George Circuit,South Africa,8,,,,,,,,,
+57,Zeltweg,Austria,4,,,,,,,,,
+58,Aintree,UK,8,,,,,,,,,
+59,Circuito da Boavista,Portugal,12,,,,,,,,,
+60,Riverside International Raceway,USA,9,,,,,,,,,
+61,AVUS,Germany,4,,,,,,,,,
+62,Monsanto Park Circuit,Portugal,9,,,,,,,,,
+63,Sebring International Raceway,USA,17,,,,,,,,,
+64,Ain Diab,Morocco,4,,,,,,,,,
+65,Pescara Circuit,Italy,49,,,,,,,,,
+66,Circuit Bremgarten,Switzerland,13,,,,,,,,,
+67,Circuit de Pedralbes,Spain,6,,,,,,,,,
+68,Buddh International Circuit,India,16,5.125,60,307.5,321,2,0.63,1060,Medium,58
+69,Circuit of the Americas,USA,20,5.513,56,308.728,325.3,2,0.59,1090,Medium,66
+70,Red Bull Ring,Austria,10,4.326,71,307.02,327.4,2,0.79,868,Low,32
+71,Sochi Autodrom,Russia,18,5.848,53,309.745,326,2,0.75,1073,Medium,54
+72,Port Imperial Street Circuit,USA,19,,,,,,,,,
+73,Baku City Circuit,Azerbaijan,20,6.003,51,306.051,337,2,0.75,2010,Low,78
