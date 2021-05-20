@@ -1,0 +1,841 @@
+year,name,driverRef,Medium,Soft,Super Soft,Ultra soft,Hard
+2017,Brazilian Grand Prix,vettel,1,3,9,0,0
+2017,Brazilian Grand Prix,bottas,1,4,8,0,0
+2017,Brazilian Grand Prix,raikkonen,1,3,9,0,0
+2017,Brazilian Grand Prix,hamilton,1,4,8,0,0
+2017,Brazilian Grand Prix,verstappen,1,3,9,0,0
+2017,Brazilian Grand Prix,ricciardo,1,4,8,0,0
+2017,Brazilian Grand Prix,massa,1,2,10,0,0
+2017,Brazilian Grand Prix,alonso,1,3,9,0,0
+2017,Brazilian Grand Prix,perez,1,4,8,0,0
+2017,Brazilian Grand Prix,hulkenberg,1,2,10,0,0
+2017,Brazilian Grand Prix,sainz,1,2,10,0,0
+2017,Brazilian Grand Prix,gasly,1,4,8,0,0
+2017,Brazilian Grand Prix,ericsson,1,3,9,0,0
+2017,Brazilian Grand Prix,wehrlein,1,3,9,0,0
+2017,Brazilian Grand Prix,grosjean,1,4,8,0,0
+2017,Brazilian Grand Prix,stroll,1,2,10,0,0
+2017,Brazilian Grand Prix,hartley,1,4,8,0,0
+2017,Brazilian Grand Prix,ocon,1,4,8,0,0
+2017,Brazilian Grand Prix,vandoorne,1,3,9,0,0
+2017,Brazilian Grand Prix,magnussen,1,4,8,0,0
+2017,Mexican Grand Prix,hamilton,0,1,3,9,0
+2017,Mexican Grand Prix,bottas,0,2,2,9,0
+2017,Mexican Grand Prix,ricciardo,0,3,4,6,0
+2017,Mexican Grand Prix,verstappen,0,3,4,6,0
+2017,Mexican Grand Prix,vettel,0,1,5,7,0
+2017,Mexican Grand Prix,raikkonen,0,2,4,7,0
+2017,Mexican Grand Prix,perez,0,2,2,9,0
+2017,Mexican Grand Prix,ocon,0,1,2,10,0
+2017,Mexican Grand Prix,massa,0,2,1,10,0
+2017,Mexican Grand Prix,stroll,0,1,2,10,0
+2017,Mexican Grand Prix,alonso,0,2,1,10,0
+2017,Mexican Grand Prix,vandoorne,0,1,2,10,0
+2017,Mexican Grand Prix,hartley,0,1,2,10,0
+2017,Mexican Grand Prix,gasly,0,1,2,10,0
+2017,Mexican Grand Prix,grosjean,0,2,3,8,0
+2017,Mexican Grand Prix,magnussen,0,1,4,8,0
+2017,Mexican Grand Prix,hulkenberg,0,1,2,10,0
+2017,Mexican Grand Prix,sainz,0,1,2,10,0
+2017,Mexican Grand Prix,wehrlein,0,2,3,8,0
+2017,Mexican Grand Prix,ericsson,0,2,3,8,0
+2017,United States Grand Prix,hamilton,0,3,3,7,0
+2017,United States Grand Prix,bottas,0,2,4,7,0
+2017,United States Grand Prix,ricciardo,0,2,4,7,0
+2017,United States Grand Prix,verstappen,0,2,4,7,0
+2017,United States Grand Prix,vettel,0,2,4,7,0
+2017,United States Grand Prix,raikkonen,0,1,5,7,0
+2017,United States Grand Prix,perez,0,2,3,8,0
+2017,United States Grand Prix,ocon,0,2,3,8,0
+2017,United States Grand Prix,massa,0,2,2,9,0
+2017,United States Grand Prix,stroll,0,1,3,9,0
+2017,United States Grand Prix,alonso,0,2,2,9,0
+2017,United States Grand Prix,vandoorne,0,1,3,9,0
+2017,United States Grand Prix,hartley,0,2,3,8,0
+2017,United States Grand Prix,kvyat,0,2,3,8,0
+2017,United States Grand Prix,grosjean,0,1,5,7,0
+2017,United States Grand Prix,magnussen,0,2,4,7,0
+2017,United States Grand Prix,hulkenberg,0,2,3,8,0
+2017,United States Grand Prix,sainz,0,2,3,8,0
+2017,United States Grand Prix,wehrlein,0,3,3,7,0
+2017,United States Grand Prix,ericsson,0,2,4,7,0
+2017,Japanese Grand Prix,hamilton,1,5,7,0,0
+2017,Japanese Grand Prix,bottas,2,4,7,0,0
+2017,Japanese Grand Prix,ricciardo,1,3,9,0,0
+2017,Japanese Grand Prix,verstappen,1,3,9,0,0
+2017,Japanese Grand Prix,vettel,1,5,7,0,0
+2017,Japanese Grand Prix,raikkonen,2,4,7,0,0
+2017,Japanese Grand Prix,perez,3,3,7,0,0
+2017,Japanese Grand Prix,ocon,3,3,7,0,0
+2017,Japanese Grand Prix,massa,1,4,8,0,0
+2017,Japanese Grand Prix,stroll,1,4,8,0,0
+2017,Japanese Grand Prix,alonso,1,2,10,0,0
+2017,Japanese Grand Prix,vandoorne,1,2,10,0,0
+2017,Japanese Grand Prix,sainz,1,3,9,0,0
+2017,Japanese Grand Prix,gasly,1,3,9,0,0
+2017,Japanese Grand Prix,grosjean,2,4,7,0,0
+2017,Japanese Grand Prix,magnussen,1,5,7,0,0
+2017,Japanese Grand Prix,hulkenberg,1,3,9,0,0
+2017,Japanese Grand Prix,palmer,1,3,9,0,0
+2017,Japanese Grand Prix,wehrlein,1,3,9,0,0
+2017,Japanese Grand Prix,ericsson,1,3,9,0,0
+2017,Malaysian Grand Prix,hamilton,1,5,7,0,0
+2017,Malaysian Grand Prix,bottas,2,4,7,0,0
+2017,Malaysian Grand Prix,ricciardo,1,4,8,0,0
+2017,Malaysian Grand Prix,verstappen,1,3,9,0,0
+2017,Malaysian Grand Prix,vettel,1,3,9,0,0
+2017,Malaysian Grand Prix,raikkonen,1,3,9,0,0
+2017,Malaysian Grand Prix,perez,1,4,8,0,0
+2017,Malaysian Grand Prix,ocon,1,4,8,0,0
+2017,Malaysian Grand Prix,massa,1,2,10,0,0
+2017,Malaysian Grand Prix,stroll,1,2,10,0,0
+2017,Malaysian Grand Prix,alonso,1,2,10,0,0
+2017,Malaysian Grand Prix,vandoorne,1,2,10,0,0
+2017,Malaysian Grand Prix,sainz,1,4,8,0,0
+2017,Malaysian Grand Prix,gasly,1,4,8,0,0
+2017,Malaysian Grand Prix,grosjean,1,5,7,0,0
+2017,Malaysian Grand Prix,magnussen,2,4,7,0,0
+2017,Malaysian Grand Prix,hulkenberg,1,3,9,0,0
+2017,Malaysian Grand Prix,palmer,1,3,9,0,0
+2017,Malaysian Grand Prix,wehrlein,1,5,7,0,0
+2017,Malaysian Grand Prix,ericsson,2,4,7,0,0
+2017,Singapore Grand Prix,hamilton,0,2,2,9,0
+2017,Singapore Grand Prix,bottas,0,1,3,9,0
+2017,Singapore Grand Prix,ricciardo,0,1,2,10,0
+2017,Singapore Grand Prix,verstappen,0,1,2,10,0
+2017,Singapore Grand Prix,vettel,0,2,1,10,0
+2017,Singapore Grand Prix,raikkonen,0,1,2,10,0
+2017,Singapore Grand Prix,perez,0,1,2,10,0
+2017,Singapore Grand Prix,ocon,0,1,2,10,0
+2017,Singapore Grand Prix,massa,0,1,2,10,0
+2017,Singapore Grand Prix,stroll,0,1,2,10,0
+2017,Singapore Grand Prix,alonso,0,1,2,10,0
+2017,Singapore Grand Prix,vandoorne,0,1,2,10,0
+2017,Singapore Grand Prix,sainz,0,1,3,9,0
+2017,Singapore Grand Prix,kvyat,0,1,3,9,0
+2017,Singapore Grand Prix,grosjean,0,1,4,8,0
+2017,Singapore Grand Prix,magnussen,0,1,4,8,0
+2017,Singapore Grand Prix,hulkenberg,0,1,2,10,0
+2017,Singapore Grand Prix,palmer,0,1,2,10,0
+2017,Singapore Grand Prix,wehrlein,0,2,2,9,0
+2017,Singapore Grand Prix,ericsson,0,1,2,10,0
+2017,Italian Grand Prix,hamilton,1,3,9,0,0
+2017,Italian Grand Prix,bottas,1,3,9,0,0
+2017,Italian Grand Prix,ricciardo,1,2,10,0,0
+2017,Italian Grand Prix,verstappen,1,2,10,0,0
+2017,Italian Grand Prix,vettel,1,2,10,0,0
+2017,Italian Grand Prix,raikkonen,1,2,10,0,0
+2017,Italian Grand Prix,perez,1,3,9,0,0
+2017,Italian Grand Prix,ocon,1,3,9,0,0
+2017,Italian Grand Prix,massa,1,2,10,0,0
+2017,Italian Grand Prix,stroll,1,2,10,0,0
+2017,Italian Grand Prix,alonso,1,2,10,0,0
+2017,Italian Grand Prix,vandoorne,1,2,10,0,0
+2017,Italian Grand Prix,sainz,1,2,10,0,0
+2017,Italian Grand Prix,kvyat,1,2,10,0,0
+2017,Italian Grand Prix,grosjean,1,3,9,0,0
+2017,Italian Grand Prix,magnussen,1,3,9,0,0
+2017,Italian Grand Prix,hulkenberg,1,2,10,0,0
+2017,Italian Grand Prix,palmer,1,2,10,0,0
+2017,Italian Grand Prix,wehrlein,1,2,10,0,0
+2017,Italian Grand Prix,ericsson,1,2,10,0,0
+2017,Belgian Grand Prix,hamilton,0,4,3,6,0
+2017,Belgian Grand Prix,bottas,0,3,4,6,0
+2017,Belgian Grand Prix,ricciardo,0,1,3,9,0
+2017,Belgian Grand Prix,verstappen,0,1,3,9,0
+2017,Belgian Grand Prix,vettel,0,3,3,7,0
+2017,Belgian Grand Prix,raikkonen,0,3,3,7,0
+2017,Belgian Grand Prix,perez,0,3,4,6,0
+2017,Belgian Grand Prix,ocon,0,3,4,6,0
+2017,Belgian Grand Prix,massa,0,1,5,7,0
+2017,Belgian Grand Prix,stroll,0,1,5,7,0
+2017,Belgian Grand Prix,alonso,0,2,2,9,0
+2017,Belgian Grand Prix,vandoorne,0,1,3,9,0
+2017,Belgian Grand Prix,sainz,0,2,3,8,0
+2017,Belgian Grand Prix,kvyat,0,2,3,8,0
+2017,Belgian Grand Prix,grosjean,0,3,4,6,0
+2017,Belgian Grand Prix,magnussen,0,4,3,6,0
+2017,Belgian Grand Prix,hulkenberg,0,2,3,8,0
+2017,Belgian Grand Prix,palmer,0,2,3,8,0
+2017,Belgian Grand Prix,wehrlein,0,3,3,7,0
+2017,Belgian Grand Prix,ericsson,0,2,4,7,0
+2017,Hungarian Grand Prix,hamilton,1,3,9,0,0
+2017,Hungarian Grand Prix,bottas,1,3,9,0,0
+2017,Hungarian Grand Prix,ricciardo,1,3,9,0,0
+2017,Hungarian Grand Prix,verstappen,1,2,10,0,0
+2017,Hungarian Grand Prix,vettel,1,3,9,0,0
+2017,Hungarian Grand Prix,raikkonen,1,3,9,0,0
+2017,Hungarian Grand Prix,perez,1,2,10,0,0
+2017,Hungarian Grand Prix,ocon,1,2,10,0,0
+2017,Hungarian Grand Prix,di resta,1,2,10,0,0
+2017,Hungarian Grand Prix,stroll,1,2,10,0,0
+2017,Hungarian Grand Prix,alonso,1,2,10,0,0
+2017,Hungarian Grand Prix,vandoorne,1,2,10,0,0
+2017,Hungarian Grand Prix,sainz,1,3,9,0,0
+2017,Hungarian Grand Prix,kvyat,1,3,9,0,0
+2017,Hungarian Grand Prix,grosjean,1,4,8,0,0
+2017,Hungarian Grand Prix,magnussen,1,4,8,0,0
+2017,Hungarian Grand Prix,hulkenberg,1,2,10,0,0
+2017,Hungarian Grand Prix,palmer,1,2,10,0,0
+2017,Hungarian Grand Prix,wehrlein,1,3,9,0,0
+2017,Hungarian Grand Prix,ericsson,1,3,9,0,0
+2017,British Grand Prix,hamilton,1,6,6,0,0
+2017,British Grand Prix,bottas,2,5,6,0,0
+2017,British Grand Prix,ricciardo,1,4,8,0,0
+2017,British Grand Prix,verstappen,1,4,8,0,0
+2017,British Grand Prix,vettel,1,3,9,0,0
+2017,British Grand Prix,raikkonen,1,3,9,0,0
+2017,British Grand Prix,perez,2,4,7,0,0
+2017,British Grand Prix,ocon,2,4,7,0,0
+2017,British Grand Prix,massa,1,5,7,0,0
+2017,British Grand Prix,stroll,1,5,7,0,0
+2017,British Grand Prix,alonso,1,2,10,0,0
+2017,British Grand Prix,vandoorne,1,2,10,0,0
+2017,British Grand Prix,sainz,1,3,9,0,0
+2017,British Grand Prix,kvyat,1,2,10,0,0
+2017,British Grand Prix,grosjean,2,4,7,0,0
+2017,British Grand Prix,magnussen,1,5,7,0,0
+2017,British Grand Prix,hulkenberg,1,4,8,0,0
+2017,British Grand Prix,palmer,1,4,8,0,0
+2017,British Grand Prix,wehrlein,1,5,7,0,0
+2017,British Grand Prix,ericsson,1,5,7,0,0
+2017,Austrian Grand Prix,hamilton,0,2,3,8,0
+2017,Austrian Grand Prix,bottas,0,1,4,8,0
+2017,Austrian Grand Prix,ricciardo,0,2,2,9,0
+2017,Austrian Grand Prix,verstappen,0,2,2,9,0
+2017,Austrian Grand Prix,vettel,0,1,5,7,0
+2017,Austrian Grand Prix,raikkonen,0,2,4,7,0
+2017,Austrian Grand Prix,perez,0,1,2,10,0
+2017,Austrian Grand Prix,ocon,0,1,2,10,0
+2017,Austrian Grand Prix,massa,0,2,3,8,0
+2017,Austrian Grand Prix,stroll,0,1,4,8,0
+2017,Austrian Grand Prix,alonso,0,1,2,10,0
+2017,Austrian Grand Prix,vandoorne,0,1,2,10,0
+2017,Austrian Grand Prix,sainz,0,2,3,8,0
+2017,Austrian Grand Prix,kvyat,0,2,3,8,0
+2017,Austrian Grand Prix,grosjean,0,1,5,7,0
+2017,Austrian Grand Prix,magnussen,0,1,5,7,0
+2017,Austrian Grand Prix,hulkenberg,0,2,3,8,0
+2017,Austrian Grand Prix,palmer,0,2,3,8,0
+2017,Austrian Grand Prix,wehrlein,0,3,3,7,0
+2017,Austrian Grand Prix,ericsson,0,2,4,7,0
+2017,Azerbaijan Grand Prix,hamilton,1,4,8,0,0
+2017,Azerbaijan Grand Prix,bottas,1,4,8,0,0
+2017,Azerbaijan Grand Prix,ricciardo,2,3,8,0,0
+2017,Azerbaijan Grand Prix,verstappen,2,3,8,0,0
+2017,Azerbaijan Grand Prix,vettel,1,4,8,0,0
+2017,Azerbaijan Grand Prix,raikkonen,1,4,8,0,0
+2017,Azerbaijan Grand Prix,perez,1,3,9,0,0
+2017,Azerbaijan Grand Prix,ocon,1,3,9,0,0
+2017,Azerbaijan Grand Prix,massa,2,3,8,0,0
+2017,Azerbaijan Grand Prix,stroll,1,4,8,0,0
+2017,Azerbaijan Grand Prix,alonso,1,2,10,0,0
+2017,Azerbaijan Grand Prix,vandoorne,1,2,10,0,0
+2017,Azerbaijan Grand Prix,sainz,1,3,9,0,0
+2017,Azerbaijan Grand Prix,kvyat,1,3,9,0,0
+2017,Azerbaijan Grand Prix,grosjean,1,4,8,0,0
+2017,Azerbaijan Grand Prix,magnussen,1,4,8,0,0
+2017,Azerbaijan Grand Prix,hulkenberg,1,4,8,0,0
+2017,Azerbaijan Grand Prix,palmer,1,4,8,0,0
+2017,Azerbaijan Grand Prix,wehrlein,1,3,9,0,0
+2017,Azerbaijan Grand Prix,ericsson,2,3,8,0,0
+2017,Canadian Grand Prix,hamilton,0,1,4,8,0
+2017,Canadian Grand Prix,bottas,0,2,3,8,0
+2017,Canadian Grand Prix,ricciardo,0,1,5,7,0
+2017,Canadian Grand Prix,verstappen,0,1,5,7,0
+2017,Canadian Grand Prix,vettel,0,1,3,9,0
+2017,Canadian Grand Prix,raikkonen,0,1,3,9,0
+2017,Canadian Grand Prix,perez,0,2,3,8,0
+2017,Canadian Grand Prix,ocon,0,2,3,8,0
+2017,Canadian Grand Prix,massa,0,2,4,7,0
+2017,Canadian Grand Prix,stroll,0,1,5,7,0
+2017,Canadian Grand Prix,alonso,0,1,2,10,0
+2017,Canadian Grand Prix,vandoorne,0,2,1,10,0
+2017,Canadian Grand Prix,sainz,0,2,3,8,0
+2017,Canadian Grand Prix,kvyat,0,2,3,8,0
+2017,Canadian Grand Prix,grosjean,0,1,5,7,0
+2017,Canadian Grand Prix,magnussen,0,2,4,7,0
+2017,Canadian Grand Prix,hulkenberg,0,2,4,7,0
+2017,Canadian Grand Prix,palmer,0,2,4,7,0
+2017,Canadian Grand Prix,wehrlein,0,3,3,7,0
+2017,Canadian Grand Prix,ericsson,0,2,4,7,0
+2017,Monaco Grand Prix,hamilton,0,1,3,9,0
+2017,Monaco Grand Prix,bottas,0,1,3,9,0
+2017,Monaco Grand Prix,ricciardo,0,1,1,11,0
+2017,Monaco Grand Prix,verstappen,0,1,1,11,0
+2017,Monaco Grand Prix,vettel,0,1,2,10,0
+2017,Monaco Grand Prix,raikkonen,0,1,2,10,0
+2017,Monaco Grand Prix,perez,0,1,2,10,0
+2017,Monaco Grand Prix,ocon,0,1,2,10,0
+2017,Monaco Grand Prix,massa,0,1,1,11,0
+2017,Monaco Grand Prix,stroll,0,1,1,11,0
+2017,Monaco Grand Prix,button,0,2,1,10,0
+2017,Monaco Grand Prix,vandoorne,0,1,2,10,0
+2017,Monaco Grand Prix,sainz,0,1,3,9,0
+2017,Monaco Grand Prix,kvyat,0,1,3,9,0
+2017,Monaco Grand Prix,grosjean,0,1,2,10,0
+2017,Monaco Grand Prix,magnussen,0,1,2,10,0
+2017,Monaco Grand Prix,hulkenberg,0,1,1,11,0
+2017,Monaco Grand Prix,palmer,0,1,1,11,0
+2017,Monaco Grand Prix,wehrlein,0,1,2,10,0
+2017,Monaco Grand Prix,ericsson,0,1,2,10,0
+2017,Spanish Grand Prix,hamilton,1,5,7,0,0
+2017,Spanish Grand Prix,bottas,1,5,7,0,0
+2017,Spanish Grand Prix,ricciardo,2,4,7,0,0
+2017,Spanish Grand Prix,verstappen,2,4,7,0,0
+2017,Spanish Grand Prix,vettel,1,4,8,0,0
+2017,Spanish Grand Prix,raikkonen,1,4,8,0,0
+2017,Spanish Grand Prix,perez,2,5,6,0,0
+2017,Spanish Grand Prix,ocon,2,5,6,0,0
+2017,Spanish Grand Prix,massa,1,5,7,0,0
+2017,Spanish Grand Prix,stroll,1,5,7,0,0
+2017,Spanish Grand Prix,alonso,1,5,7,0,0
+2017,Spanish Grand Prix,vandoorne,1,5,7,0,0
+2017,Spanish Grand Prix,sainz,1,5,6,0,0
+2017,Spanish Grand Prix,kvyat,2,6,6,0,0
+2017,Spanish Grand Prix,grosjean,2,3,8,0,0
+2017,Spanish Grand Prix,magnussen,2,4,8,0,0
+2017,Spanish Grand Prix,hulkenberg,2,5,6,0,0
+2017,Spanish Grand Prix,palmer,1,5,7,0,0
+2017,Spanish Grand Prix,wehrlein,2,5,6,0,0
+2017,Spanish Grand Prix,ericsson,2,6,5,0,0
+2017,Russian Grand Prix,hamilton,0,1,4,8,0
+2017,Russian Grand Prix,bottas,0,1,3,9,0
+2017,Russian Grand Prix,ricciardo,0,1,2,10,0
+2017,Russian Grand Prix,verstappen,0,1,4,8,0
+2017,Russian Grand Prix,vettel,0,1,6,6,0
+2017,Russian Grand Prix,raikkonen,0,1,6,6,0
+2017,Russian Grand Prix,perez,0,1,4,8,0
+2017,Russian Grand Prix,ocon,0,1,4,8,0
+2017,Russian Grand Prix,massa,0,1,3,9,0
+2017,Russian Grand Prix,stroll,0,1,3,9,0
+2017,Russian Grand Prix,alonso,0,1,5,7,0
+2017,Russian Grand Prix,vandoorne,0,1,5,7,0
+2017,Russian Grand Prix,sainz,0,1,4,8,0
+2017,Russian Grand Prix,kvyat,0,1,2,10,0
+2017,Russian Grand Prix,grosjean,0,1,2,10,0
+2017,Russian Grand Prix,magnussen,0,1,5,7,0
+2017,Russian Grand Prix,hulkenberg,0,1,4,8,0
+2017,Russian Grand Prix,palmer,0,1,5,7,0
+2017,Russian Grand Prix,wehrlein,0,2,5,6,0
+2017,Russian Grand Prix,ericsson,0,1,5,7,0
+2017,Bahrain Grand Prix,hamilton,1,6,6,0,0
+2017,Bahrain Grand Prix,bottas,3,3,7,0,0
+2017,Bahrain Grand Prix,ricciardo,2,5,6,0,0
+2017,Bahrain Grand Prix,verstappen,2,5,6,0,0
+2017,Bahrain Grand Prix,vettel,3,4,6,0,0
+2017,Bahrain Grand Prix,raikkonen,3,4,6,0,0
+2017,Bahrain Grand Prix,perez,2,5,6,0,0
+2017,Bahrain Grand Prix,ocon,2,5,6,0,0
+2017,Bahrain Grand Prix,massa,3,3,7,0,0
+2017,Bahrain Grand Prix,stroll,3,3,7,0,0
+2017,Bahrain Grand Prix,alonso,3,5,5,0,0
+2017,Bahrain Grand Prix,vandoorne,3,5,5,0,0
+2017,Bahrain Grand Prix,sainz,2,6,5,0,0
+2017,Bahrain Grand Prix,kvyat,1,7,5,0,0
+2017,Bahrain Grand Prix,grosjean,2,4,7,0,0
+2017,Bahrain Grand Prix,magnussen,1,5,7,0,0
+2017,Bahrain Grand Prix,hulkenberg,2,5,6,0,0
+2017,Bahrain Grand Prix,palmer,1,5,7,0,0
+2017,Bahrain Grand Prix,wehrlein,4,5,4,0,0
+2017,Bahrain Grand Prix,ericsson,3,4,6,0,0
+2017,Australian Grand Prix,hamilton,0,1,6,6,0
+2017,Australian Grand Prix,bottas,0,1,5,7,0
+2017,Australian Grand Prix,ricciardo,0,2,4,7,0
+2017,Australian Grand Prix,verstappen,0,2,4,7,0
+2017,Australian Grand Prix,vettel,0,2,5,6,0
+2017,Australian Grand Prix,raikkonen,0,2,5,6,0
+2017,Australian Grand Prix,perez,0,2,5,6,0
+2017,Australian Grand Prix,ocon,0,2,5,6,0
+2017,Australian Grand Prix,massa,0,1,5,7,0
+2017,Australian Grand Prix,stroll,0,1,5,7,0
+2017,Australian Grand Prix,alonso,0,1,5,7,0
+2017,Australian Grand Prix,vandoorne,0,1,5,7,0
+2017,Australian Grand Prix,sainz,0,2,4,7,0
+2017,Australian Grand Prix,kvyat,0,2,4,7,0
+2017,Australian Grand Prix,grosjean,0,1,5,7,0
+2017,Australian Grand Prix,magnussen,0,1,5,7,0
+2017,Australian Grand Prix,hulkenberg,0,2,5,6,0
+2017,Australian Grand Prix,palmer,0,1,5,7,0
+2017,Australian Grand Prix,giovinazzi,0,4,4,5,0
+2017,Australian Grand Prix,ericsson,0,1,6,6,0
+2017,Abu Dhabi Grand Prix,hamilton,0,2,2,9,0
+2017,Abu Dhabi Grand Prix,bottas,0,1,3,9,0
+2017,Abu Dhabi Grand Prix,ricciardo,0,1,2,10,0
+2017,Abu Dhabi Grand Prix,verstappen,0,1,3,9,0
+2017,Abu Dhabi Grand Prix,vettel,0,1,2,10,0
+2017,Abu Dhabi Grand Prix,raikkonen,0,1,2,10,0
+2017,Abu Dhabi Grand Prix,perez,0,1,2,10,0
+2017,Abu Dhabi Grand Prix,ocon,0,2,2,9,0
+2017,Abu Dhabi Grand Prix,massa,0,1,2,10,0
+2017,Abu Dhabi Grand Prix,stroll,0,2,1,10,0
+2017,Abu Dhabi Grand Prix,alonso,0,1,2,10,0
+2017,Abu Dhabi Grand Prix,vandoorne,0,1,2,10,0
+2017,Abu Dhabi Grand Prix,hartley,0,1,3,9,0
+2017,Abu Dhabi Grand Prix,gasly,0,1,3,9,0
+2017,Abu Dhabi Grand Prix,grosjean,0,2,2,9,0
+2017,Abu Dhabi Grand Prix,magnussen,0,2,2,9,0
+2017,Abu Dhabi Grand Prix,hulkenberg,0,1,4,8,0
+2017,Abu Dhabi Grand Prix,sainz,0,1,4,8,0
+2017,Abu Dhabi Grand Prix,wehrlein,0,2,2,9,0
+2017,Abu Dhabi Grand Prix,ericsson,0,1,2,10,0
+2016,Brazilian Grand Prix,hamilton,4,8,0,0,1
+2016,Brazilian Grand Prix,rosberg,4,8,0,0,1
+2016,Brazilian Grand Prix,vettel,5,7,0,0,1
+2016,Brazilian Grand Prix,raikkonen,4,7,0,0,2
+2016,Brazilian Grand Prix,massa,3,9,0,0,1
+2016,Brazilian Grand Prix,bottas,3,9,0,0,1
+2016,Brazilian Grand Prix,ricciardo,5,7,0,0,1
+2016,Brazilian Grand Prix,verstappen,5,7,0,0,1
+2016,Brazilian Grand Prix,hulkenberg,3,8,0,0,2
+2016,Brazilian Grand Prix,perez,3,8,0,0,2
+2016,Brazilian Grand Prix,magnussen,4,8,0,0,1
+2016,Brazilian Grand Prix,palmer,4,8,0,0,1
+2016,Brazilian Grand Prix,kvyat,4,8,0,0,1
+2016,Brazilian Grand Prix,sainz,4,8,0,0,1
+2016,Brazilian Grand Prix,ericsson,5,7,0,0,1
+2016,Brazilian Grand Prix,nasr,5,7,0,0,1
+2016,Brazilian Grand Prix,alonso,4,8,0,0,1
+2016,Brazilian Grand Prix,button,4,8,0,0,1
+2016,Brazilian Grand Prix,wehrlein,4,8,0,0,1
+2016,Brazilian Grand Prix,ocon,4,8,0,0,1
+2016,Brazilian Grand Prix,grosjean,5,7,0,0,1
+2016,Brazilian Grand Prix,gutierrez,4,7,0,0,2
+2016,Mexican Grand Prix,hamilton,3,5,5,0,0
+2016,Mexican Grand Prix,rosberg,4,4,5,0,0
+2016,Mexican Grand Prix,vettel,3,4,6,0,0
+2016,Mexican Grand Prix,raikkonen,2,5,6,0,0
+2016,Mexican Grand Prix,massa,3,3,7,0,0
+2016,Mexican Grand Prix,bottas,3,3,7,0,0
+2016,Mexican Grand Prix,ricciardo,3,4,6,0,0
+2016,Mexican Grand Prix,verstappen,3,4,6,0,0
+2016,Mexican Grand Prix,hulkenberg,3,3,7,0,0
+2016,Mexican Grand Prix,perez,3,3,7,0,0
+2016,Mexican Grand Prix,magnussen,5,2,6,0,0
+2016,Mexican Grand Prix,palmer,4,3,6,0,0
+2016,Mexican Grand Prix,kvyat,2,3,8,0,0
+2016,Mexican Grand Prix,sainz,2,3,8,0,0
+2016,Mexican Grand Prix,ericsson,3,3,7,0,0
+2016,Mexican Grand Prix,nasr,3,3,7,0,0
+2016,Mexican Grand Prix,alonso,3,4,6,0,0
+2016,Mexican Grand Prix,button,3,4,6,0,0
+2016,Mexican Grand Prix,wehrlein,2,5,6,0,0
+2016,Mexican Grand Prix,ocon,2,5,6,0,0
+2016,Mexican Grand Prix,grosjean,2,4,7,0,0
+2016,Mexican Grand Prix,gutierrez,1,5,7,0,0
+2016,United States Grand Prix,hamilton,3,4,6,0,0
+2016,United States Grand Prix,rosberg,2,5,6,0,0
+2016,United States Grand Prix,vettel,1,5,7,0,0
+2016,United States Grand Prix,raikkonen,1,5,7,0,0
+2016,United States Grand Prix,massa,2,4,7,0,0
+2016,United States Grand Prix,bottas,3,3,7,0,0
+2016,United States Grand Prix,ricciardo,4,3,6,0,0
+2016,United States Grand Prix,verstappen,4,3,6,0,0
+2016,United States Grand Prix,hulkenberg,3,3,7,0,0
+2016,United States Grand Prix,perez,3,2,8,0,0
+2016,United States Grand Prix,magnussen,4,3,6,0,0
+2016,United States Grand Prix,palmer,5,2,6,0,0
+2016,United States Grand Prix,kvyat,3,3,7,0,0
+2016,United States Grand Prix,sainz,3,3,7,0,0
+2016,United States Grand Prix,ericsson,1,5,7,0,0
+2016,United States Grand Prix,nasr,1,5,7,0,0
+2016,United States Grand Prix,alonso,3,4,6,0,0
+2016,United States Grand Prix,button,3,4,6,0,0
+2016,United States Grand Prix,wehrlein,3,5,5,0,0
+2016,United States Grand Prix,ocon,3,5,5,0,0
+2016,United States Grand Prix,grosjean,1,5,7,0,0
+2016,United States Grand Prix,gutierrez,2,4,7,0,0
+2016,Japanese Grand Prix,hamilton,2,8,0,3,0
+2016,Japanese Grand Prix,rosberg,3,8,0,2,0
+2016,Japanese Grand Prix,vettel,1,9,0,3,0
+2016,Japanese Grand Prix,raikkonen,2,9,0,2,0
+2016,Japanese Grand Prix,massa,4,7,0,2,0
+2016,Japanese Grand Prix,bottas,3,7,0,3,0
+2016,Japanese Grand Prix,ricciardo,3,6,0,4,0
+2016,Japanese Grand Prix,verstappen,3,6,0,4,0
+2016,Japanese Grand Prix,hulkenberg,2,7,0,4,0
+2016,Japanese Grand Prix,perez,2,7,0,4,0
+2016,Japanese Grand Prix,magnussen,2,7,0,4,0
+2016,Japanese Grand Prix,palmer,3,7,0,3,0
+2016,Japanese Grand Prix,kvyat,2,7,0,4,0
+2016,Japanese Grand Prix,sainz,3,7,0,3,0
+2016,Japanese Grand Prix,ericsson,3,8,0,2,0
+2016,Japanese Grand Prix,nasr,3,8,0,2,0
+2016,Japanese Grand Prix,alonso,3,7,0,3,0
+2016,Japanese Grand Prix,button,3,7,0,3,0
+2016,Japanese Grand Prix,wehrlein,4,6,0,3,0
+2016,Japanese Grand Prix,ocon,4,6,0,3,0
+2016,Japanese Grand Prix,grosjean,3,7,0,3,0
+2016,Japanese Grand Prix,gutierrez,4,7,0,2,0
+2016,Malaysian Grand Prix,hamilton,3,7,0,0,3
+2016,Malaysian Grand Prix,rosberg,4,7,0,0,2
+2016,Malaysian Grand Prix,vettel,4,7,0,0,2
+2016,Malaysian Grand Prix,raikkonen,3,7,0,0,3
+2016,Malaysian Grand Prix,massa,3,7,0,0,3
+2016,Malaysian Grand Prix,bottas,4,7,0,0,2
+2016,Malaysian Grand Prix,ricciardo,4,6,0,0,3
+2016,Malaysian Grand Prix,verstappen,4,6,0,0,3
+2016,Malaysian Grand Prix,hulkenberg,3,7,0,0,3
+2016,Malaysian Grand Prix,perez,3,7,0,0,3
+2016,Malaysian Grand Prix,magnussen,3,7,0,0,3
+2016,Malaysian Grand Prix,palmer,2,7,0,0,4
+2016,Malaysian Grand Prix,kvyat,2,8,0,0,3
+2016,Malaysian Grand Prix,sainz,2,8,0,0,3
+2016,Malaysian Grand Prix,ericsson,4,7,0,0,2
+2016,Malaysian Grand Prix,nasr,4,7,0,0,2
+2016,Malaysian Grand Prix,alonso,3,7,0,0,3
+2016,Malaysian Grand Prix,button,3,7,0,0,3
+2016,Malaysian Grand Prix,wehrlein,4,6,0,0,3
+2016,Malaysian Grand Prix,ocon,4,6,0,0,3
+2016,Malaysian Grand Prix,grosjean,4,7,0,0,2
+2016,Malaysian Grand Prix,gutierrez,3,7,0,0,3
+2016,Singapore Grand Prix,hamilton,0,3,3,7,0
+2016,Singapore Grand Prix,rosberg,0,4,2,7,0
+2016,Singapore Grand Prix,vettel,0,2,2,9,0
+2016,Singapore Grand Prix,raikkonen,0,1,3,9,0
+2016,Singapore Grand Prix,massa,0,1,4,8,0
+2016,Singapore Grand Prix,bottas,0,2,3,8,0
+2016,Singapore Grand Prix,ricciardo,0,2,4,7,0
+2016,Singapore Grand Prix,verstappen,0,2,4,7,0
+2016,Singapore Grand Prix,hulkenberg,0,4,3,6,0
+2016,Singapore Grand Prix,perez,0,4,3,6,0
+2016,Singapore Grand Prix,magnussen,0,1,5,7,0
+2016,Singapore Grand Prix,palmer,0,1,5,7,0
+2016,Singapore Grand Prix,kvyat,0,1,4,8,0
+2016,Singapore Grand Prix,sainz,0,1,4,8,0
+2016,Singapore Grand Prix,ericsson,0,1,3,9,0
+2016,Singapore Grand Prix,nasr,0,1,4,8,0
+2016,Singapore Grand Prix,alonso,0,2,3,8,0
+2016,Singapore Grand Prix,button,0,2,3,8,0
+2016,Singapore Grand Prix,wehrlein,0,3,4,6,0
+2016,Singapore Grand Prix,ocon,0,3,4,6,0
+2016,Singapore Grand Prix,grosjean,0,2,2,9,0
+2016,Singapore Grand Prix,gutierrez,0,1,3,9,0
+2016,Italian Grand Prix,hamilton,1,5,7,0,0
+2016,Italian Grand Prix,rosberg,2,4,7,0,0
+2016,Italian Grand Prix,vettel,1,2,7,0,0
+2016,Italian Grand Prix,raikkonen,2,5,7,0,0
+2016,Italian Grand Prix,massa,2,4,7,0,0
+2016,Italian Grand Prix,bottas,1,5,7,0,0
+2016,Italian Grand Prix,ricciardo,2,4,6,0,0
+2016,Italian Grand Prix,verstappen,2,4,6,0,0
+2016,Italian Grand Prix,hulkenberg,3,4,8,0,0
+2016,Italian Grand Prix,perez,3,4,7,0,0
+2016,Italian Grand Prix,magnussen,1,5,7,0,0
+2016,Italian Grand Prix,palmer,2,5,7,0,0
+2016,Italian Grand Prix,kvyat,2,2,7,0,0
+2016,Italian Grand Prix,sainz,2,3,7,0,0
+2016,Italian Grand Prix,ericsson,2,5,6,0,0
+2016,Italian Grand Prix,nasr,2,5,6,0,0
+2016,Italian Grand Prix,alonso,2,4,7,0,0
+2016,Italian Grand Prix,button,2,4,7,0,0
+2016,Italian Grand Prix,wehrlein,2,4,7,0,0
+2016,Italian Grand Prix,ocon,2,4,7,0,0
+2016,Italian Grand Prix,grosjean,1,3,9,0,0
+2016,Italian Grand Prix,gutierrez,2,2,9,0,0
+2016,Belgian Grand Prix,hamilton,3,6,4,0,0
+2016,Belgian Grand Prix,rosberg,4,5,4,0,0
+2016,Belgian Grand Prix,vettel,1,5,7,0,0
+2016,Belgian Grand Prix,raikkonen,1,5,7,0,0
+2016,Belgian Grand Prix,massa,3,3,7,0,0
+2016,Belgian Grand Prix,bottas,3,3,7,0,0
+2016,Belgian Grand Prix,ricciardo,4,3,6,0,0
+2016,Belgian Grand Prix,verstappen,4,3,6,0,0
+2016,Belgian Grand Prix,hulkenberg,3,4,6,0,0
+2016,Belgian Grand Prix,perez,3,4,6,0,0
+2016,Belgian Grand Prix,magnussen,3,3,7,0,0
+2016,Belgian Grand Prix,palmer,3,3,7,0,0
+2016,Belgian Grand Prix,kvyat,2,4,7,0,0
+2016,Belgian Grand Prix,sainz,2,4,7,0,0
+2016,Belgian Grand Prix,ericsson,1,5,7,0,0
+2016,Belgian Grand Prix,nasr,1,5,7,0,0
+2016,Belgian Grand Prix,alonso,3,4,6,0,0
+2016,Belgian Grand Prix,button,3,4,6,0,0
+2016,Belgian Grand Prix,wehrlein,4,4,5,0,0
+2016,Belgian Grand Prix,ocon,4,4,5,0,0
+2016,Belgian Grand Prix,grosjean,2,4,7,0,0
+2016,Belgian Grand Prix,gutierrez,1,5,7,0,0
+2016,Hungarian Grand Prix,hamilton,1,4,8,0,0
+2016,Hungarian Grand Prix,rosberg,1,4,8,0,0
+2016,Hungarian Grand Prix,vettel,1,3,9,0,0
+2016,Hungarian Grand Prix,raikkonen,1,3,9,0,0
+2016,Hungarian Grand Prix,massa,1,5,7,0,0
+2016,Hungarian Grand Prix,bottas,1,5,7,0,0
+2016,Hungarian Grand Prix,ricciardo,1,5,7,0,0
+2016,Hungarian Grand Prix,verstappen,1,5,7,0,0
+2016,Hungarian Grand Prix,hulkenberg,2,4,7,0,0
+2016,Hungarian Grand Prix,perez,2,4,7,0,0
+2016,Hungarian Grand Prix,magnussen,1,5,7,0,0
+2016,Hungarian Grand Prix,palmer,1,5,7,0,0
+2016,Hungarian Grand Prix,kvyat,1,5,7,0,0
+2016,Hungarian Grand Prix,sainz,1,5,7,0,0
+2016,Hungarian Grand Prix,ericsson,1,4,8,0,0
+2016,Hungarian Grand Prix,nasr,1,4,8,0,0
+2016,Hungarian Grand Prix,alonso,1,5,7,0,0
+2016,Hungarian Grand Prix,button,1,5,7,0,0
+2016,Hungarian Grand Prix,wehrlein,1,5,7,0,0
+2016,Hungarian Grand Prix,haryanto,1,5,7,0,0
+2016,Hungarian Grand Prix,grosjean,1,4,8,0,0
+2016,Hungarian Grand Prix,gutierrez,2,3,8,0,0
+2016,British Grand Prix,hamilton,5,7,0,0,1
+2016,British Grand Prix,rosberg,5,7,0,0,1
+2016,British Grand Prix,vettel,3,8,0,0,2
+2016,British Grand Prix,raikkonen,3,8,0,0,2
+2016,British Grand Prix,massa,5,7,0,0,1
+2016,British Grand Prix,bottas,5,7,0,0,1
+2016,British Grand Prix,ricciardo,4,7,0,0,2
+2016,British Grand Prix,verstappen,4,7,0,0,2
+2016,British Grand Prix,hulkenberg,4,6,0,0,3
+2016,British Grand Prix,perez,4,6,0,0,3
+2016,British Grand Prix,magnussen,5,7,0,0,1
+2016,British Grand Prix,palmer,5,7,0,0,1
+2016,British Grand Prix,kvyat,3,8,0,0,2
+2016,British Grand Prix,sainz,3,8,0,0,2
+2016,British Grand Prix,ericsson,3,9,0,0,1
+2016,British Grand Prix,nasr,3,9,0,0,1
+2016,British Grand Prix,alonso,5,7,0,0,1
+2016,British Grand Prix,button,5,7,0,0,1
+2016,British Grand Prix,wehrlein,5,7,0,0,1
+2016,British Grand Prix,haryanto,5,7,0,0,1
+2016,British Grand Prix,grosjean,4,7,0,0,2
+2016,British Grand Prix,gutierrez,5,7,0,0,1
+2016,Austrian Grand Prix,hamilton,0,2,3,8,0
+2016,Austrian Grand Prix,rosberg,0,1,4,8,0
+2016,Austrian Grand Prix,vettel,0,1,3,9,0
+2016,Austrian Grand Prix,raikkonen,0,1,3,9,0
+2016,Austrian Grand Prix,massa,0,2,4,7,0
+2016,Austrian Grand Prix,bottas,0,1,5,7,0
+2016,Austrian Grand Prix,ricciardo,0,2,4,7,0
+2016,Austrian Grand Prix,verstappen,0,2,4,7,0
+2016,Austrian Grand Prix,hulkenberg,0,3,3,7,0
+2016,Austrian Grand Prix,perez,0,3,3,7,0
+2016,Austrian Grand Prix,magnussen,0,2,2,9,0
+2016,Austrian Grand Prix,palmer,0,1,3,9,0
+2016,Austrian Grand Prix,kvyat,0,2,4,7,0
+2016,Austrian Grand Prix,sainz,0,2,4,7,0
+2016,Austrian Grand Prix,ericsson,0,2,4,7,0
+2016,Austrian Grand Prix,nasr,0,3,3,7,0
+2016,Austrian Grand Prix,alonso,0,3,3,7,0
+2016,Austrian Grand Prix,button,0,3,3,7,0
+2016,Austrian Grand Prix,wehrlein,0,1,4,8,0
+2016,Austrian Grand Prix,haryanto,0,1,4,8,0
+2016,Austrian Grand Prix,grosjean,0,2,5,6,0
+2016,Austrian Grand Prix,gutierrez,0,3,4,6,0
+2016,Azerbaijan Grand Prix,hamilton,1,4,8,0,0
+2016,Azerbaijan Grand Prix,rosberg,2,3,8,0,0
+2016,Azerbaijan Grand Prix,vettel,1,5,7,0,0
+2016,Azerbaijan Grand Prix,raikkonen,1,5,7,0,0
+2016,Azerbaijan Grand Prix,massa,1,5,7,0,0
+2016,Azerbaijan Grand Prix,bottas,2,4,7,0,0
+2016,Azerbaijan Grand Prix,ricciardo,1,4,8,0,0
+2016,Azerbaijan Grand Prix,verstappen,1,4,8,0,0
+2016,Azerbaijan Grand Prix,hulkenberg,2,4,7,0,0
+2016,Azerbaijan Grand Prix,perez,2,4,7,0,0
+2016,Azerbaijan Grand Prix,magnussen,1,4,8,0,0
+2016,Azerbaijan Grand Prix,palmer,1,4,8,0,0
+2016,Azerbaijan Grand Prix,kvyat,1,4,8,0,0
+2016,Azerbaijan Grand Prix,sainz,1,4,8,0,0
+2016,Azerbaijan Grand Prix,ericsson,2,5,6,0,0
+2016,Azerbaijan Grand Prix,nasr,1,6,6,0,0
+2016,Azerbaijan Grand Prix,alonso,1,5,7,0,0
+2016,Azerbaijan Grand Prix,button,1,5,7,0,0
+2016,Azerbaijan Grand Prix,wehrlein,2,4,7,0,0
+2016,Azerbaijan Grand Prix,haryanto,2,4,7,0,0
+2016,Azerbaijan Grand Prix,grosjean,2,3,8,0,0
+2016,Azerbaijan Grand Prix,gutierrez,1,4,8,0,0
+2016,Canadian Grand Prix,hamilton,0,3,2,8,0
+2016,Canadian Grand Prix,rosberg,0,3,2,8,0
+2016,Canadian Grand Prix,vettel,0,3,3,7,0
+2016,Canadian Grand Prix,raikkonen,0,3,3,7,0
+2016,Canadian Grand Prix,massa,0,3,3,7,0
+2016,Canadian Grand Prix,bottas,0,2,4,7,0
+2016,Canadian Grand Prix,ricciardo,0,4,2,7,0
+2016,Canadian Grand Prix,verstappen,0,4,2,7,0
+2016,Canadian Grand Prix,hulkenberg,0,4,3,6,0
+2016,Canadian Grand Prix,perez,0,4,3,6,0
+2016,Canadian Grand Prix,magnussen,0,5,0,8,0
+2016,Canadian Grand Prix,palmer,0,5,0,8,0
+2016,Canadian Grand Prix,kvyat,0,2,4,7,0
+2016,Canadian Grand Prix,sainz,0,2,4,7,0
+2016,Canadian Grand Prix,ericsson,0,2,5,6,0
+2016,Canadian Grand Prix,nasr,0,2,5,6,0
+2016,Canadian Grand Prix,alonso,0,3,4,6,0
+2016,Canadian Grand Prix,button,0,3,4,6,0
+2016,Canadian Grand Prix,wehrlein,0,3,4,6,0
+2016,Canadian Grand Prix,haryanto,0,3,4,6,0
+2016,Canadian Grand Prix,grosjean,0,3,0,10,0
+2016,Canadian Grand Prix,gutierrez,0,3,0,10,0
+2016,Monaco Grand Prix,hamilton,0,1,2,10,0
+2016,Monaco Grand Prix,rosberg,0,1,2,10,0
+2016,Monaco Grand Prix,vettel,0,2,2,9,0
+2016,Monaco Grand Prix,raikkonen,0,2,2,9,0
+2016,Monaco Grand Prix,massa,0,2,4,7,0
+2016,Monaco Grand Prix,bottas,0,2,4,7,0
+2016,Monaco Grand Prix,ricciardo,0,1,2,10,0
+2016,Monaco Grand Prix,verstappen,0,1,2,10,0
+2016,Monaco Grand Prix,hulkenberg,0,3,3,7,0
+2016,Monaco Grand Prix,perez,0,3,3,7,0
+2016,Monaco Grand Prix,magnussen,0,1,2,10,0
+2016,Monaco Grand Prix,palmer,0,1,3,9,0
+2016,Monaco Grand Prix,kvyat,0,3,3,7,0
+2016,Monaco Grand Prix,sainz,0,3,3,7,0
+2016,Monaco Grand Prix,ericsson,0,1,4,8,0
+2016,Monaco Grand Prix,nasr,0,1,4,8,0
+2016,Monaco Grand Prix,alonso,0,1,5,7,0
+2016,Monaco Grand Prix,button,0,1,5,7,0
+2016,Monaco Grand Prix,wehrlein,0,2,5,6,0
+2016,Monaco Grand Prix,haryanto,0,2,5,6,0
+2016,Monaco Grand Prix,grosjean,0,1,3,9,0
+2016,Monaco Grand Prix,gutierrez,0,1,3,9,0
+2016,Spanish Grand Prix,hamilton,5,7,0,0,1
+2016,Spanish Grand Prix,rosberg,5,7,0,0,1
+2016,Spanish Grand Prix,vettel,4,8,0,0,1
+2016,Spanish Grand Prix,raikkonen,4,8,0,0,1
+2016,Spanish Grand Prix,massa,5,7,0,0,1
+2016,Spanish Grand Prix,bottas,5,7,0,0,1
+2016,Spanish Grand Prix,ricciardo,4,7,0,0,2
+2016,Spanish Grand Prix,verstappen,4,7,0,0,2
+2016,Spanish Grand Prix,hulkenberg,5,6,0,0,2
+2016,Spanish Grand Prix,perez,5,6,0,0,2
+2016,Spanish Grand Prix,magnussen,4,7,0,0,2
+2016,Spanish Grand Prix,palmer,5,7,0,0,1
+2016,Spanish Grand Prix,kvyat,6,6,0,0,1
+2016,Spanish Grand Prix,sainz,5,6,0,0,2
+2016,Spanish Grand Prix,alonso,5,7,0,0,1
+2016,Spanish Grand Prix,button,5,7,0,0,1
+2016,Spanish Grand Prix,ericsson,6,5,0,0,2
+2016,Spanish Grand Prix,nasr,6,5,0,0,2
+2016,Spanish Grand Prix,wehrlein,5,6,0,0,2
+2016,Spanish Grand Prix,haryanto,5,6,0,0,2
+2016,Spanish Grand Prix,grosjean,3,8,0,0,2
+2016,Spanish Grand Prix,gutierrez,4,8,0,0,1
+2016,Russian Grand Prix,hamilton,1,4,8,0,0
+2016,Russian Grand Prix,rosberg,1,4,8,0,0
+2016,Russian Grand Prix,vettel,1,6,6,0,0
+2016,Russian Grand Prix,raikkonen,1,6,6,0,0
+2016,Russian Grand Prix,bottas,1,3,9,0,0
+2016,Russian Grand Prix,massa,1,3,9,0,0
+2016,Russian Grand Prix,ricciardo,1,2,10,0,0
+2016,Russian Grand Prix,kvyat,1,2,10,0,0
+2016,Russian Grand Prix,hulkenberg,1,4,8,0,0
+2016,Russian Grand Prix,perez,1,4,8,0,0
+2016,Russian Grand Prix,magnussen,1,5,7,0,0
+2016,Russian Grand Prix,palmer,1,5,7,0,0
+2016,Russian Grand Prix,verstappen,1,4,8,0,0
+2016,Russian Grand Prix,sainz,1,4,8,0,0
+2016,Russian Grand Prix,alonso,1,5,7,0,0
+2016,Russian Grand Prix,button,1,5,7,0,0
+2016,Russian Grand Prix,ericsson,1,5,7,0,0
+2016,Russian Grand Prix,nasr,1,5,7,0,0
+2016,Russian Grand Prix,wehrlein,2,5,6,0,0
+2016,Russian Grand Prix,haryanto,2,5,6,0,0
+2016,Russian Grand Prix,grosjean,1,2,10,0,0
+2016,Russian Grand Prix,gutierrez,1,2,10,0,0
+2016,Chinese Grand Prix,hamilton,4,4,5,0,0
+2016,Chinese Grand Prix,rosberg,3,5,5,0,0
+2016,Chinese Grand Prix,vettel,3,4,6,0,0
+2016,Chinese Grand Prix,raikkonen,3,4,6,0,0
+2016,Chinese Grand Prix,bottas,2,4,7,0,0
+2016,Chinese Grand Prix,massa,1,5,7,0,0
+2016,Chinese Grand Prix,ricciardo,2,5,6,0,0
+2016,Chinese Grand Prix,kvyat,2,5,6,0,0
+2016,Chinese Grand Prix,hulkenberg,2,5,6,0,0
+2016,Chinese Grand Prix,perez,2,5,6,0,0
+2016,Chinese Grand Prix,magnussen,2,5,6,0,0
+2016,Chinese Grand Prix,palmer,3,4,6,0,0
+2016,Chinese Grand Prix,verstappen,3,5,5,0,0
+2016,Chinese Grand Prix,sainz,2,6,5,0,0
+2016,Chinese Grand Prix,alonso,2,4,7,0,0
+2016,Chinese Grand Prix,button,2,4,7,0,0
+2016,Chinese Grand Prix,ericsson,5,4,4,0,0
+2016,Chinese Grand Prix,nasr,5,4,4,0,0
+2016,Chinese Grand Prix,wehrlein,4,5,4,0,0
+2016,Chinese Grand Prix,haryanto,4,5,4,0,0
+2016,Chinese Grand Prix,grosjean,1,5,7,0,0
+2016,Chinese Grand Prix,gutierrez,2,4,7,0,0
+2016,Bahrain Grand Prix,hamilton,1,6,6,0,0
+2016,Bahrain Grand Prix,rosberg,1,6,6,0,0
+2016,Bahrain Grand Prix,vettel,3,4,6,0,0
+2016,Bahrain Grand Prix,raikkonen,3,4,6,0,0
+2016,Bahrain Grand Prix,massa,3,3,7,0,0
+2016,Bahrain Grand Prix,bottas,3,3,7,0,0
+2016,Bahrain Grand Prix,ricciardo,2,5,6,0,0
+2016,Bahrain Grand Prix,verstappen,2,5,6,0,0
+2016,Bahrain Grand Prix,hulkenberg,2,5,6,0,0
+2016,Bahrain Grand Prix,perez,2,5,6,0,0
+2016,Bahrain Grand Prix,magnussen,1,5,7,0,0
+2016,Bahrain Grand Prix,palmer,1,5,7,0,0
+2016,Bahrain Grand Prix,kvyat,1,7,5,0,0
+2016,Bahrain Grand Prix,sainz,2,6,5,0,0
+2016,Bahrain Grand Prix,ericsson,3,4,6,0,0
+2016,Bahrain Grand Prix,nasr,3,4,6,0,0
+2016,Bahrain Grand Prix,vandoorne,3,5,5,0,0
+2016,Bahrain Grand Prix,button,4,4,5,0,0
+2016,Bahrain Grand Prix,wehrlein,4,5,4,0,0
+2016,Bahrain Grand Prix,haryanto,4,5,4,0,0
+2016,Bahrain Grand Prix,grosjean,2,4,7,0,0
+2016,Bahrain Grand Prix,gutierrez,1,5,7,0,0
+2016,Australian Grand Prix,hamilton,1,6,6,0,0
+2016,Australian Grand Prix,rosberg,2,5,6,0,0
+2016,Australian Grand Prix,vettel,2,5,6,0,0
+2016,Australian Grand Prix,raikkonen,2,5,6,0,0
+2016,Australian Grand Prix,bottas,1,5,7,0,0
+2016,Australian Grand Prix,massa,1,5,7,0,0
+2016,Australian Grand Prix,ricciardo,2,4,7,0,0
+2016,Australian Grand Prix,kvyat,2,4,7,0,0
+2016,Australian Grand Prix,magnussen,1,5,7,0,0
+2016,Australian Grand Prix,palmer,1,5,7,0,0
+2016,Australian Grand Prix,hulkenberg,2,5,6,0,0
+2016,Australian Grand Prix,perez,2,5,6,0,0
+2016,Australian Grand Prix,verstappen,2,4,7,0,0
+2016,Australian Grand Prix,sainz,2,4,7,0,0
+2016,Australian Grand Prix,alonso,1,5,7,0,0
+2016,Australian Grand Prix,button,1,5,7,0,0
+2016,Australian Grand Prix,ericsson,1,6,6,0,0
+2016,Australian Grand Prix,nasr,2,5,6,0,0
+2016,Australian Grand Prix,wehrlein,4,4,5,0,0
+2016,Australian Grand Prix,haryanto,4,4,5,0,0
+2016,Australian Grand Prix,grosjean,1,5,7,0,0
+2016,Australian Grand Prix,gutierrez,2,4,7,0,0
+2016,Abu Dhabi Grand Prix,hamilton,0,4,2,7,0
+2016,Abu Dhabi Grand Prix,rosberg,0,4,2,7,0
+2016,Abu Dhabi Grand Prix,vettel,0,5,1,7,0
+2016,Abu Dhabi Grand Prix,raikkonen,0,4,2,7,0
+2016,Abu Dhabi Grand Prix,massa,0,5,1,7,0
+2016,Abu Dhabi Grand Prix,bottas,0,4,2,7,0
+2016,Abu Dhabi Grand Prix,ricciardo,0,5,2,6,0
+2016,Abu Dhabi Grand Prix,verstappen,0,5,2,6,0
+2016,Abu Dhabi Grand Prix,hulkenberg,0,3,2,8,0
+2016,Abu Dhabi Grand Prix,perez,0,3,3,7,0
+2016,Abu Dhabi Grand Prix,magnussen,0,5,2,6,0
+2016,Abu Dhabi Grand Prix,palmer,0,4,3,6,0
+2016,Abu Dhabi Grand Prix,kvyat,0,4,2,7,0
+2016,Abu Dhabi Grand Prix,sainz,0,4,2,7,0
+2016,Abu Dhabi Grand Prix,ericsson,0,3,4,6,0
+2016,Abu Dhabi Grand Prix,nasr,0,3,4,6,0
+2016,Abu Dhabi Grand Prix,alonso,0,5,1,7,0
+2016,Abu Dhabi Grand Prix,button,0,5,1,7,0
+2016,Abu Dhabi Grand Prix,wehrlein,0,4,3,6,0
+2016,Abu Dhabi Grand Prix,ocon,0,4,3,6,0
+2016,Abu Dhabi Grand Prix,grosjean,0,4,2,7,0
+2016,Abu Dhabi Grand Prix,gutierrez,0,3,3,7,0
+2017,Chinese Grand Prix,hamilton,4,4,5,0,0
+2017,Chinese Grand Prix,bottas,2,4,7,0,0
+2017,Chinese Grand Prix,ricciardo,2,5,6,0,0
+2017,Chinese Grand Prix,verstappen,3,5,5,0,0
+2017,Chinese Grand Prix,vettel,3,4,6,0,0
+2017,Chinese Grand Prix,raikkonen,3,4,6,0,0
+2017,Chinese Grand Prix,perez,2,5,6,0,0
+2017,Chinese Grand Prix,ocon,2,5,6,0,0
+2017,Chinese Grand Prix,massa,1,5,7,0,0
+2017,Chinese Grand Prix,stroll,1,5,7,0,0
+2017,Chinese Grand Prix,alonso,2,4,7,0,0
+2017,Chinese Grand Prix,vandoorne,2,4,7,0,0
+2017,Chinese Grand Prix,sainz,2,6,5,0,0
+2017,Chinese Grand Prix,kvyat,1,5,7,0,0
+2017,Chinese Grand Prix,grosjean,2,4,7,0,0
+2017,Chinese Grand Prix,magnussen,2,5,6,0,0
+2017,Chinese Grand Prix,hulkenberg,2,5,6,0,0
+2017,Chinese Grand Prix,palmer,3,4,6,0,0
+2017,Chinese Grand Prix,giovinazzi,4,5,4,0,0
+2017,Chinese Grand Prix,ericsson,5,4,4,0,0

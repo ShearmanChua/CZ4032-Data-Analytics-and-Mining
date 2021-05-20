@@ -1,0 +1,1229 @@
+year,driverRef,name,clusters
+2016,raikkonen,Chinese Grand Prix,2
+2016,vettel,Chinese Grand Prix,4
+2016,raikkonen,Australian Grand Prix,3
+2015,vettel,United States Grand Prix,2
+2016,vettel,Australian Grand Prix,3
+2015,raikkonen,United States Grand Prix,2
+2015,vettel,Hungarian Grand Prix,4
+2015,vettel,Mexican Grand Prix,4
+2016,raikkonen,Italian Grand Prix,3
+2015,raikkonen,Mexican Grand Prix,1
+2016,vettel,Italian Grand Prix,3
+2015,vettel,Brazilian Grand Prix,1
+2015,raikkonen,Brazilian Grand Prix,2
+2015,raikkonen,Hungarian Grand Prix,5
+2015,vettel,Chinese Grand Prix,4
+2015,raikkonen,Australian Grand Prix,2
+2015,raikkonen,Chinese Grand Prix,4
+2015,vettel,Australian Grand Prix,1
+2016,vettel,United States Grand Prix,3
+2016,raikkonen,United States Grand Prix,4
+2016,vettel,Russian Grand Prix,3
+2016,raikkonen,Russian Grand Prix,1
+2016,vettel,Belgian Grand Prix,1
+2016,raikkonen,Hungarian Grand Prix,3
+2016,vettel,Hungarian Grand Prix,1
+2015,vettel,Belgian Grand Prix,2
+2016,vettel,Mexican Grand Prix,5
+2016,raikkonen,Mexican Grand Prix,3
+2015,raikkonen,Belgian Grand Prix,1
+2015,raikkonen,Italian Grand Prix,1
+2015,vettel,Italian Grand Prix,1
+2015,raikkonen,Bahrain Grand Prix,2
+2015,vettel,Bahrain Grand Prix,3
+2016,vettel,Azerbaijan Grand Prix,1
+2016,raikkonen,Azerbaijan Grand Prix,1
+2016,raikkonen,Belgian Grand Prix,1
+2016,vettel,Bahrain Grand Prix,3
+2016,raikkonen,Bahrain Grand Prix,2
+2016,hulkenberg,Australian Grand Prix,1
+2015,perez,United States Grand Prix,2
+2016,perez,Australian Grand Prix,1
+2016,perez,Azerbaijan Grand Prix,1
+2016,hulkenberg,Russian Grand Prix,3
+2016,perez,Russian Grand Prix,1
+2016,hulkenberg,Azerbaijan Grand Prix,2
+2015,hulkenberg,United States Grand Prix,2
+2016,perez,Chinese Grand Prix,3
+2015,perez,Mexican Grand Prix,4
+2016,perez,Mexican Grand Prix,4
+2016,perez,United States Grand Prix,2
+2016,hulkenberg,United States Grand Prix,4
+2015,hulkenberg,Bahrain Grand Prix,3
+2015,hulkenberg,Australian Grand Prix,1
+2016,hulkenberg,Mexican Grand Prix,5
+2015,hulkenberg,Mexican Grand Prix,4
+2015,perez,Bahrain Grand Prix,1
+2015,perez,Australian Grand Prix,3
+2015,perez,Hungarian Grand Prix,5
+2016,perez,Bahrain Grand Prix,4
+2016,perez,Hungarian Grand Prix,4
+2016,hulkenberg,Bahrain Grand Prix,1
+2015,hulkenberg,Hungarian Grand Prix,5
+2015,perez,Chinese Grand Prix,2
+2015,hulkenberg,Chinese Grand Prix,2
+2015,hulkenberg,Brazilian Grand Prix,2
+2016,hulkenberg,Hungarian Grand Prix,1
+2015,perez,Brazilian Grand Prix,3
+2016,hulkenberg,Italian Grand Prix,3
+2016,perez,Italian Grand Prix,3
+2016,hulkenberg,Chinese Grand Prix,3
+2016,perez,Belgian Grand Prix,2
+2016,hulkenberg,Belgian Grand Prix,1
+2015,perez,Belgian Grand Prix,3
+2015,perez,Italian Grand Prix,1
+2015,hulkenberg,Italian Grand Prix,1
+2016,gutierrez,Bahrain Grand Prix,3
+2016,grosjean,Bahrain Grand Prix,2
+2016,grosjean,Italian Grand Prix,2
+2016,gutierrez,Italian Grand Prix,4
+2016,grosjean,Mexican Grand Prix,3
+2016,grosjean,Hungarian Grand Prix,1
+2016,gutierrez,Belgian Grand Prix,1
+2016,grosjean,Russian Grand Prix,1
+2016,gutierrez,Hungarian Grand Prix,1
+2016,grosjean,Belgian Grand Prix,1
+2016,gutierrez,Mexican Grand Prix,3
+2016,grosjean,Australian Grand Prix,4
+2016,gutierrez,Australian Grand Prix,3
+2016,grosjean,Azerbaijan Grand Prix,3
+2016,gutierrez,Russian Grand Prix,4
+2016,gutierrez,Azerbaijan Grand Prix,5
+2016,gutierrez,Chinese Grand Prix,4
+2016,grosjean,Chinese Grand Prix,4
+2016,grosjean,United States Grand Prix,3
+2016,gutierrez,United States Grand Prix,4
+2015,grosjean,Italian Grand Prix,3
+2015,grosjean,Chinese Grand Prix,3
+2015,grosjean,Belgian Grand Prix,1
+2015,maldonado,Chinese Grand Prix,1
+2015,grosjean,Bahrain Grand Prix,1
+2015,maldonado,Italian Grand Prix,3
+2015,maldonado,Bahrain Grand Prix,3
+2015,maldonado,Belgian Grand Prix,3
+2015,maldonado,Hungarian Grand Prix,2
+2015,grosjean,Brazilian Grand Prix,3
+2015,maldonado,Brazilian Grand Prix,4
+2015,grosjean,United States Grand Prix,2
+2015,maldonado,United States Grand Prix,1
+2015,grosjean,Hungarian Grand Prix,3
+2015,grosjean,Mexican Grand Prix,2
+2015,maldonado,Mexican Grand Prix,2
+2016,ocon,Belgian Grand Prix,2
+2016,wehrlein,Italian Grand Prix,2
+2016,wehrlein,Russian Grand Prix,1
+2016,haryanto,Azerbaijan Grand Prix,1
+2015,stevens,Belgian Grand Prix,1
+2016,wehrlein,Azerbaijan Grand Prix,2
+2016,wehrlein,Hungarian Grand Prix,1
+2015,rossi,Mexican Grand Prix,2
+2016,ocon,Italian Grand Prix,4
+2016,ocon,Mexican Grand Prix,4
+2016,haryanto,Hungarian Grand Prix,2
+2015,stevens,Mexican Grand Prix,2
+2016,haryanto,Russian Grand Prix,3
+2015,merhi,Italian Grand Prix,1
+2015,stevens,Italian Grand Prix,1
+2015,stevens,Hungarian Grand Prix,5
+2015,merhi,Belgian Grand Prix,1
+2015,merhi,Bahrain Grand Prix,1
+2015,stevens,Brazilian Grand Prix,2
+2015,rossi,Brazilian Grand Prix,2
+2016,wehrlein,Chinese Grand Prix,4
+2015,merhi,Chinese Grand Prix,1
+2015,merhi,Hungarian Grand Prix,3
+2016,wehrlein,Bahrain Grand Prix,4
+2015,stevens,Bahrain Grand Prix,1
+2015,stevens,United States Grand Prix,2
+2016,ocon,United States Grand Prix,4
+2016,haryanto,Australian Grand Prix,3
+2015,rossi,United States Grand Prix,2
+2016,wehrlein,Australian Grand Prix,2
+2016,haryanto,Chinese Grand Prix,4
+2016,haryanto,Bahrain Grand Prix,1
+2015,stevens,Chinese Grand Prix,1
+2016,wehrlein,United States Grand Prix,2
+2015,button,Brazilian Grand Prix,3
+2015,alonso,Brazilian Grand Prix,3
+2016,alonso,Azerbaijan Grand Prix,5
+2016,button,Australian Grand Prix,2
+2016,button,Belgian Grand Prix,2
+2016,alonso,Belgian Grand Prix,2
+2016,alonso,Australian Grand Prix,3
+2016,button,Russian Grand Prix,1
+2016,alonso,Russian Grand Prix,1
+2016,button,Bahrain Grand Prix,3
+2016,vandoorne,Bahrain Grand Prix,4
+2016,button,Azerbaijan Grand Prix,4
+2015,alonso,Belgian Grand Prix,3
+2015,button,Belgian Grand Prix,3
+2015,alonso,Bahrain Grand Prix,2
+2015,button,Australian Grand Prix,1
+2016,alonso,Chinese Grand Prix,1
+2016,button,Chinese Grand Prix,1
+2016,alonso,Mexican Grand Prix,3
+2016,button,Mexican Grand Prix,4
+2016,alonso,United States Grand Prix,2
+2016,button,United States Grand Prix,2
+2015,button,Chinese Grand Prix,4
+2015,alonso,Chinese Grand Prix,1
+2015,alonso,Italian Grand Prix,2
+2015,button,Italian Grand Prix,1
+2016,alonso,Hungarian Grand Prix,1
+2016,alonso,Italian Grand Prix,3
+2016,button,Italian Grand Prix,4
+2016,button,Hungarian Grand Prix,4
+2015,alonso,United States Grand Prix,2
+2015,button,United States Grand Prix,1
+2015,alonso,Mexican Grand Prix,1
+2015,button,Mexican Grand Prix,1
+2015,button,Hungarian Grand Prix,4
+2015,alonso,Hungarian Grand Prix,3
+2016,rosberg,United States Grand Prix,2
+2015,rosberg,Chinese Grand Prix,4
+2015,hamilton,Chinese Grand Prix,4
+2015,rosberg,Australian Grand Prix,1
+2016,rosberg,Chinese Grand Prix,2
+2016,hamilton,Australian Grand Prix,1
+2016,hamilton,United States Grand Prix,3
+2015,rosberg,Bahrain Grand Prix,1
+2015,hamilton,Bahrain Grand Prix,1
+2016,rosberg,Azerbaijan Grand Prix,1
+2016,rosberg,Russian Grand Prix,1
+2015,hamilton,Australian Grand Prix,1
+2016,hamilton,Russian Grand Prix,1
+2016,hamilton,Azerbaijan Grand Prix,1
+2016,rosberg,Italian Grand Prix,1
+2016,rosberg,Australian Grand Prix,1
+2015,rosberg,United States Grand Prix,1
+2016,hamilton,Chinese Grand Prix,4
+2015,hamilton,United States Grand Prix,1
+2016,hamilton,Belgian Grand Prix,1
+2015,hamilton,Brazilian Grand Prix,1
+2016,hamilton,Italian Grand Prix,1
+2015,hamilton,Hungarian Grand Prix,5
+2016,rosberg,Mexican Grand Prix,4
+2015,rosberg,Hungarian Grand Prix,4
+2016,hamilton,Mexican Grand Prix,4
+2015,hamilton,Mexican Grand Prix,3
+2015,rosberg,Mexican Grand Prix,3
+2015,hamilton,Italian Grand Prix,1
+2015,rosberg,Brazilian Grand Prix,1
+2015,rosberg,Italian Grand Prix,1
+2016,rosberg,Hungarian Grand Prix,1
+2016,rosberg,Belgian Grand Prix,2
+2016,hamilton,Hungarian Grand Prix,1
+2015,rosberg,Belgian Grand Prix,2
+2016,hamilton,Bahrain Grand Prix,2
+2016,rosberg,Bahrain Grand Prix,2
+2015,hamilton,Belgian Grand Prix,2
+2016,ricciardo,Azerbaijan Grand Prix,3
+2016,verstappen,Mexican Grand Prix,4
+2016,ricciardo,Mexican Grand Prix,3
+2015,ricciardo,Hungarian Grand Prix,1
+2016,verstappen,Azerbaijan Grand Prix,3
+2015,ricciardo,Mexican Grand Prix,2
+2015,kvyat,Mexican Grand Prix,2
+2016,ricciardo,Chinese Grand Prix,3
+2016,kvyat,Chinese Grand Prix,3
+2016,verstappen,Italian Grand Prix,3
+2015,kvyat,United States Grand Prix,1
+2015,ricciardo,United States Grand Prix,1
+2016,verstappen,Belgian Grand Prix,2
+2015,kvyat,Bahrain Grand Prix,1
+2016,ricciardo,Italian Grand Prix,4
+2016,ricciardo,Belgian Grand Prix,2
+2016,verstappen,Hungarian Grand Prix,1
+2016,ricciardo,Hungarian Grand Prix,1
+2016,ricciardo,Australian Grand Prix,3
+2015,kvyat,Hungarian Grand Prix,1
+2016,ricciardo,United States Grand Prix,3
+2015,ricciardo,Italian Grand Prix,2
+2015,kvyat,Italian Grand Prix,2
+2015,ricciardo,Bahrain Grand Prix,1
+2016,verstappen,United States Grand Prix,4
+2015,ricciardo,Belgian Grand Prix,3
+2016,ricciardo,Bahrain Grand Prix,4
+2016,kvyat,Russian Grand Prix,2
+2016,ricciardo,Russian Grand Prix,2
+2015,ricciardo,Brazilian Grand Prix,3
+2015,kvyat,Brazilian Grand Prix,2
+2015,kvyat,Chinese Grand Prix,2
+2016,kvyat,Bahrain Grand Prix,4
+2015,ricciardo,Australian Grand Prix,1
+2015,ricciardo,Chinese Grand Prix,4
+2015,kvyat,Belgian Grand Prix,2
+2016,palmer,Chinese Grand Prix,4
+2016,magnussen,Chinese Grand Prix,3
+2016,magnussen,Belgian Grand Prix,2
+2016,palmer,Belgian Grand Prix,1
+2016,magnussen,Hungarian Grand Prix,4
+2016,palmer,Hungarian Grand Prix,4
+2016,palmer,Azerbaijan Grand Prix,5
+2016,magnussen,Azerbaijan Grand Prix,1
+2016,magnussen,Russian Grand Prix,1
+2016,palmer,Russian Grand Prix,1
+2016,palmer,Italian Grand Prix,2
+2016,magnussen,Italian Grand Prix,4
+2016,palmer,United States Grand Prix,3
+2016,magnussen,Bahrain Grand Prix,4
+2016,palmer,Bahrain Grand Prix,3
+2016,magnussen,United States Grand Prix,3
+2016,magnussen,Australian Grand Prix,1
+2016,palmer,Australian Grand Prix,1
+2016,palmer,Mexican Grand Prix,5
+2016,magnussen,Mexican Grand Prix,4
+2016,nasr,Azerbaijan Grand Prix,4
+2016,ericsson,Russian Grand Prix,3
+2016,ericsson,Azerbaijan Grand Prix,2
+2016,ericsson,Italian Grand Prix,1
+2016,ericsson,United States Grand Prix,1
+2016,nasr,United States Grand Prix,4
+2015,nasr,Chinese Grand Prix,3
+2016,nasr,Italian Grand Prix,2
+2016,nasr,Russian Grand Prix,1
+2015,nasr,Belgian Grand Prix,3
+2016,ericsson,Bahrain Grand Prix,1
+2016,nasr,Bahrain Grand Prix,1
+2015,ericsson,Belgian Grand Prix,2
+2015,nasr,Italian Grand Prix,3
+2015,ericsson,Italian Grand Prix,1
+2016,nasr,Chinese Grand Prix,1
+2016,ericsson,Belgian Grand Prix,2
+2015,ericsson,Bahrain Grand Prix,3
+2015,nasr,Bahrain Grand Prix,3
+2015,ericsson,Chinese Grand Prix,4
+2015,ericsson,Mexican Grand Prix,4
+2015,nasr,Mexican Grand Prix,4
+2015,nasr,Brazilian Grand Prix,2
+2015,ericsson,Hungarian Grand Prix,3
+2015,ericsson,Brazilian Grand Prix,3
+2015,nasr,Hungarian Grand Prix,3
+2016,nasr,Australian Grand Prix,1
+2016,ericsson,Australian Grand Prix,1
+2015,nasr,United States Grand Prix,2
+2015,ericsson,United States Grand Prix,2
+2016,ericsson,Chinese Grand Prix,1
+2016,ericsson,Mexican Grand Prix,5
+2015,ericsson,Australian Grand Prix,2
+2016,ericsson,Hungarian Grand Prix,3
+2016,nasr,Hungarian Grand Prix,1
+2016,nasr,Mexican Grand Prix,2
+2015,nasr,Australian Grand Prix,1
+2016,nasr,Belgian Grand Prix,1
+2015,sainz,Mexican Grand Prix,4
+2015,verstappen,Mexican Grand Prix,2
+2016,verstappen,Australian Grand Prix,2
+2015,sainz,United States Grand Prix,2
+2016,sainz,Australian Grand Prix,2
+2015,verstappen,United States Grand Prix,1
+2016,kvyat,Hungarian Grand Prix,3
+2015,sainz,Hungarian Grand Prix,5
+2016,kvyat,Mexican Grand Prix,1
+2015,verstappen,Brazilian Grand Prix,3
+2016,sainz,Belgian Grand Prix,2
+2016,sainz,Hungarian Grand Prix,1
+2015,verstappen,Bahrain Grand Prix,2
+2015,sainz,Bahrain Grand Prix,2
+2015,verstappen,Hungarian Grand Prix,5
+2016,kvyat,Belgian Grand Prix,2
+2016,verstappen,Russian Grand Prix,3
+2016,sainz,Russian Grand Prix,1
+2016,kvyat,Azerbaijan Grand Prix,5
+2016,sainz,Azerbaijan Grand Prix,5
+2016,verstappen,Bahrain Grand Prix,1
+2015,sainz,Belgian Grand Prix,3
+2016,sainz,Bahrain Grand Prix,3
+2015,verstappen,Belgian Grand Prix,1
+2015,verstappen,Italian Grand Prix,3
+2016,sainz,Mexican Grand Prix,5
+2016,sainz,United States Grand Prix,4
+2015,verstappen,Chinese Grand Prix,1
+2016,sainz,Italian Grand Prix,2
+2015,sainz,Italian Grand Prix,3
+2016,sainz,Chinese Grand Prix,3
+2016,verstappen,Chinese Grand Prix,2
+2015,sainz,Chinese Grand Prix,2
+2016,kvyat,United States Grand Prix,1
+2016,kvyat,Italian Grand Prix,4
+2015,sainz,Australian Grand Prix,1
+2015,verstappen,Australian Grand Prix,2
+2016,bottas,Azerbaijan Grand Prix,1
+2016,massa,Russian Grand Prix,1
+2015,bottas,Italian Grand Prix,1
+2015,bottas,Belgian Grand Prix,3
+2016,bottas,Russian Grand Prix,1
+2015,massa,Italian Grand Prix,1
+2016,massa,Azerbaijan Grand Prix,4
+2015,massa,Hungarian Grand Prix,1
+2016,bottas,Chinese Grand Prix,3
+2015,massa,Mexican Grand Prix,4
+2015,bottas,Brazilian Grand Prix,2
+2015,bottas,Mexican Grand Prix,4
+2016,massa,Chinese Grand Prix,2
+2015,massa,United States Grand Prix,2
+2015,bottas,Hungarian Grand Prix,3
+2016,massa,Australian Grand Prix,1
+2015,massa,Belgian Grand Prix,1
+2015,massa,Brazilian Grand Prix,1
+2016,massa,Hungarian Grand Prix,2
+2016,bottas,Mexican Grand Prix,5
+2016,massa,Bahrain Grand Prix,1
+2016,bottas,Hungarian Grand Prix,1
+2015,bottas,United States Grand Prix,2
+2016,bottas,United States Grand Prix,3
+2016,massa,Belgian Grand Prix,1
+2016,bottas,Australian Grand Prix,1
+2015,massa,Chinese Grand Prix,3
+2015,massa,Bahrain Grand Prix,1
+2015,bottas,Chinese Grand Prix,3
+2016,bottas,Belgian Grand Prix,1
+2016,massa,United States Grand Prix,3
+2015,bottas,Bahrain Grand Prix,1
+2016,massa,Italian Grand Prix,4
+2016,massa,Mexican Grand Prix,5
+2016,bottas,Italian Grand Prix,3
+2015,massa,Australian Grand Prix,1
+2016,bottas,Bahrain Grand Prix,1
+2015,raikkonen,Japanese Grand Prix,3
+2016,raikkonen,British Grand Prix,2
+2016,vettel,British Grand Prix,2
+2015,raikkonen,Malaysian Grand Prix,2
+2016,raikkonen,Malaysian Grand Prix,4
+2015,vettel,Japanese Grand Prix,3
+2016,vettel,Japanese Grand Prix,4
+2016,raikkonen,Brazilian Grand Prix,1
+2016,vettel,Brazilian Grand Prix,1
+2016,raikkonen,Japanese Grand Prix,1
+2015,vettel,Malaysian Grand Prix,2
+2015,vettel,British Grand Prix,2
+2015,raikkonen,British Grand Prix,2
+2015,raikkonen,Spanish Grand Prix,1
+2015,vettel,Spanish Grand Prix,2
+2016,vettel,Spanish Grand Prix,3
+2016,raikkonen,Spanish Grand Prix,1
+2016,perez,Spanish Grand Prix,1
+2016,hulkenberg,Spanish Grand Prix,2
+2015,hulkenberg,British Grand Prix,2
+2016,perez,Japanese Grand Prix,4
+2015,perez,British Grand Prix,2
+2016,hulkenberg,Malaysian Grand Prix,1
+2016,hulkenberg,Brazilian Grand Prix,1
+2015,perez,Spanish Grand Prix,1
+2016,perez,Malaysian Grand Prix,1
+2015,perez,Malaysian Grand Prix,1
+2015,perez,Japanese Grand Prix,1
+2016,perez,Brazilian Grand Prix,1
+2016,hulkenberg,Japanese Grand Prix,4
+2015,hulkenberg,Spanish Grand Prix,1
+2015,hulkenberg,Japanese Grand Prix,3
+2016,perez,British Grand Prix,2
+2015,hulkenberg,Malaysian Grand Prix,2
+2016,hulkenberg,British Grand Prix,2
+2016,gutierrez,Brazilian Grand Prix,1
+2016,gutierrez,Spanish Grand Prix,2
+2016,grosjean,Spanish Grand Prix,2
+2016,gutierrez,Japanese Grand Prix,1
+2016,gutierrez,Malaysian Grand Prix,2
+2016,gutierrez,British Grand Prix,2
+2016,grosjean,British Grand Prix,1
+2016,grosjean,Malaysian Grand Prix,2
+2016,grosjean,Japanese Grand Prix,1
+2015,maldonado,Malaysian Grand Prix,2
+2015,maldonado,Spanish Grand Prix,1
+2015,grosjean,Japanese Grand Prix,2
+2015,grosjean,Spanish Grand Prix,2
+2015,grosjean,Malaysian Grand Prix,2
+2015,maldonado,Japanese Grand Prix,2
+2016,wehrlein,Brazilian Grand Prix,1
+2016,ocon,Brazilian Grand Prix,1
+2016,wehrlein,Spanish Grand Prix,1
+2016,ocon,Malaysian Grand Prix,4
+2016,haryanto,British Grand Prix,1
+2016,wehrlein,Malaysian Grand Prix,4
+2016,haryanto,Spanish Grand Prix,4
+2016,wehrlein,British Grand Prix,1
+2016,wehrlein,Japanese Grand Prix,1
+2015,rossi,Japanese Grand Prix,1
+2016,ocon,Japanese Grand Prix,1
+2015,stevens,Japanese Grand Prix,1
+2015,merhi,Malaysian Grand Prix,1
+2015,merhi,British Grand Prix,1
+2015,stevens,British Grand Prix,1
+2015,stevens,Spanish Grand Prix,2
+2015,merhi,Spanish Grand Prix,2
+2015,alonso,British Grand Prix,2
+2015,alonso,Japanese Grand Prix,2
+2016,button,Spanish Grand Prix,1
+2016,button,British Grand Prix,2
+2016,alonso,Brazilian Grand Prix,1
+2016,button,Brazilian Grand Prix,1
+2015,button,Japanese Grand Prix,1
+2016,alonso,British Grand Prix,2
+2016,alonso,Spanish Grand Prix,4
+2015,alonso,Spanish Grand Prix,1
+2015,button,Spanish Grand Prix,1
+2016,button,Japanese Grand Prix,2
+2015,alonso,Malaysian Grand Prix,2
+2016,alonso,Japanese Grand Prix,1
+2016,button,Malaysian Grand Prix,4
+2015,button,Malaysian Grand Prix,2
+2016,alonso,Malaysian Grand Prix,4
+2016,hamilton,Japanese Grand Prix,1
+2016,rosberg,Brazilian Grand Prix,1
+2016,hamilton,Brazilian Grand Prix,1
+2016,hamilton,Spanish Grand Prix,2
+2016,rosberg,Spanish Grand Prix,2
+2016,rosberg,Japanese Grand Prix,1
+2015,rosberg,Spanish Grand Prix,2
+2015,rosberg,Japanese Grand Prix,3
+2015,hamilton,British Grand Prix,2
+2015,hamilton,Japanese Grand Prix,2
+2015,rosberg,British Grand Prix,2
+2016,hamilton,Malaysian Grand Prix,2
+2015,hamilton,Malaysian Grand Prix,1
+2016,rosberg,Malaysian Grand Prix,4
+2015,rosberg,Malaysian Grand Prix,1
+2015,hamilton,Spanish Grand Prix,2
+2016,rosberg,British Grand Prix,2
+2016,hamilton,British Grand Prix,2
+2016,ricciardo,Brazilian Grand Prix,1
+2016,verstappen,Brazilian Grand Prix,1
+2015,kvyat,Spanish Grand Prix,2
+2015,ricciardo,Malaysian Grand Prix,2
+2015,ricciardo,Spanish Grand Prix,2
+2015,kvyat,Japanese Grand Prix,1
+2015,kvyat,Malaysian Grand Prix,2
+2016,verstappen,Japanese Grand Prix,1
+2016,ricciardo,Japanese Grand Prix,1
+2015,ricciardo,Japanese Grand Prix,3
+2016,ricciardo,Malaysian Grand Prix,4
+2016,verstappen,Malaysian Grand Prix,2
+2016,ricciardo,British Grand Prix,2
+2016,verstappen,British Grand Prix,2
+2016,verstappen,Spanish Grand Prix,1
+2016,ricciardo,Spanish Grand Prix,3
+2015,ricciardo,British Grand Prix,2
+2015,kvyat,British Grand Prix,2
+2016,palmer,Spanish Grand Prix,4
+2016,palmer,Malaysian Grand Prix,2
+2016,magnussen,Brazilian Grand Prix,1
+2016,palmer,British Grand Prix,1
+2016,magnussen,Japanese Grand Prix,2
+2016,magnussen,Malaysian Grand Prix,2
+2016,palmer,Brazilian Grand Prix,1
+2016,palmer,Japanese Grand Prix,3
+2016,magnussen,British Grand Prix,2
+2016,magnussen,Spanish Grand Prix,4
+2016,nasr,Malaysian Grand Prix,3
+2016,ericsson,Japanese Grand Prix,3
+2016,nasr,British Grand Prix,2
+2016,ericsson,Malaysian Grand Prix,2
+2016,ericsson,Brazilian Grand Prix,1
+2015,nasr,Spanish Grand Prix,2
+2016,nasr,Brazilian Grand Prix,1
+2016,nasr,Spanish Grand Prix,1
+2016,ericsson,British Grand Prix,1
+2016,ericsson,Spanish Grand Prix,2
+2015,ericsson,British Grand Prix,2
+2015,nasr,Malaysian Grand Prix,1
+2016,nasr,Japanese Grand Prix,2
+2015,ericsson,Spanish Grand Prix,2
+2015,ericsson,Japanese Grand Prix,2
+2015,ericsson,Malaysian Grand Prix,2
+2015,nasr,Japanese Grand Prix,1
+2016,sainz,British Grand Prix,2
+2016,sainz,Malaysian Grand Prix,4
+2016,kvyat,Malaysian Grand Prix,4
+2015,verstappen,Spanish Grand Prix,2
+2015,sainz,Malaysian Grand Prix,1
+2015,verstappen,Japanese Grand Prix,1
+2015,sainz,Japanese Grand Prix,3
+2015,sainz,British Grand Prix,2
+2015,verstappen,British Grand Prix,2
+2015,verstappen,Malaysian Grand Prix,1
+2016,kvyat,British Grand Prix,2
+2016,sainz,Japanese Grand Prix,4
+2016,sainz,Spanish Grand Prix,1
+2016,kvyat,Brazilian Grand Prix,1
+2015,sainz,Spanish Grand Prix,1
+2016,kvyat,Spanish Grand Prix,1
+2016,sainz,Brazilian Grand Prix,1
+2016,kvyat,Japanese Grand Prix,1
+2015,massa,Japanese Grand Prix,1
+2015,massa,British Grand Prix,2
+2015,massa,Spanish Grand Prix,2
+2016,massa,Spanish Grand Prix,3
+2016,massa,Brazilian Grand Prix,1
+2016,bottas,Brazilian Grand Prix,1
+2015,bottas,British Grand Prix,2
+2015,bottas,Japanese Grand Prix,2
+2015,massa,Malaysian Grand Prix,2
+2015,bottas,Spanish Grand Prix,2
+2016,massa,Japanese Grand Prix,3
+2016,massa,British Grand Prix,2
+2015,bottas,Malaysian Grand Prix,2
+2016,bottas,British Grand Prix,2
+2016,bottas,Spanish Grand Prix,1
+2016,massa,Malaysian Grand Prix,1
+2016,bottas,Japanese Grand Prix,3
+2016,bottas,Malaysian Grand Prix,3
+2016,vettel,Monaco Grand Prix,2
+2015,raikkonen,Canadian Grand Prix,4
+2015,vettel,Canadian Grand Prix,3
+2016,raikkonen,Monaco Grand Prix,6
+2016,raikkonen,Austrian Grand Prix,1
+2015,raikkonen,Abu Dhabi Grand Prix,4
+2015,vettel,Austrian Grand Prix,1
+2015,vettel,Abu Dhabi Grand Prix,1
+2016,raikkonen,Canadian Grand Prix,1
+2016,vettel,Canadian Grand Prix,1
+2016,vettel,Singapore Grand Prix,3
+2016,raikkonen,Abu Dhabi Grand Prix,1
+2016,vettel,Abu Dhabi Grand Prix,2
+2015,raikkonen,Monaco Grand Prix,4
+2015,raikkonen,Singapore Grand Prix,1
+2015,vettel,Monaco Grand Prix,4
+2016,raikkonen,Singapore Grand Prix,2
+2015,raikkonen,Russian Grand Prix,2
+2016,vettel,Austrian Grand Prix,4
+2015,vettel,Singapore Grand Prix,1
+2015,vettel,Russian Grand Prix,2
+2015,hulkenberg,Abu Dhabi Grand Prix,4
+2015,perez,Abu Dhabi Grand Prix,4
+2015,perez,Canadian Grand Prix,2
+2016,perez,Singapore Grand Prix,1
+2016,hulkenberg,Singapore Grand Prix,3
+2016,perez,Abu Dhabi Grand Prix,1
+2015,perez,Singapore Grand Prix,2
+2015,hulkenberg,Singapore Grand Prix,3
+2015,perez,Austrian Grand Prix,3
+2015,hulkenberg,Austrian Grand Prix,1
+2016,hulkenberg,Monaco Grand Prix,2
+2016,perez,Monaco Grand Prix,2
+2016,hulkenberg,Austrian Grand Prix,3
+2015,hulkenberg,Canadian Grand Prix,2
+2016,hulkenberg,Abu Dhabi Grand Prix,1
+2016,perez,Austrian Grand Prix,3
+2015,hulkenberg,Monaco Grand Prix,3
+2016,hulkenberg,Canadian Grand Prix,4
+2016,perez,Canadian Grand Prix,1
+2015,perez,Russian Grand Prix,1
+2015,perez,Monaco Grand Prix,4
+2016,gutierrez,Singapore Grand Prix,3
+2016,grosjean,Abu Dhabi Grand Prix,4
+2016,gutierrez,Abu Dhabi Grand Prix,1
+2016,gutierrez,Monaco Grand Prix,3
+2016,grosjean,Monaco Grand Prix,3
+2016,grosjean,Austrian Grand Prix,1
+2016,grosjean,Canadian Grand Prix,6
+2016,gutierrez,Austrian Grand Prix,3
+2016,gutierrez,Canadian Grand Prix,6
+2015,maldonado,Singapore Grand Prix,1
+2015,maldonado,Monaco Grand Prix,2
+2015,grosjean,Singapore Grand Prix,2
+2015,grosjean,Russian Grand Prix,4
+2015,maldonado,Canadian Grand Prix,2
+2015,grosjean,Austrian Grand Prix,4
+2015,grosjean,Monaco Grand Prix,6
+2015,maldonado,Austrian Grand Prix,3
+2015,maldonado,Russian Grand Prix,3
+2015,grosjean,Canadian Grand Prix,3
+2015,grosjean,Abu Dhabi Grand Prix,1
+2015,merhi,Monaco Grand Prix,1
+2015,stevens,Monaco Grand Prix,1
+2015,stevens,Canadian Grand Prix,1
+2016,wehrlein,Canadian Grand Prix,4
+2016,wehrlein,Monaco Grand Prix,4
+2015,merhi,Russian Grand Prix,1
+2015,stevens,Singapore Grand Prix,3
+2015,rossi,Singapore Grand Prix,3
+2016,haryanto,Monaco Grand Prix,5
+2015,stevens,Russian Grand Prix,5
+2015,merhi,Canadian Grand Prix,1
+2015,merhi,Abu Dhabi Grand Prix,2
+2016,wehrlein,Austrian Grand Prix,3
+2016,haryanto,Austrian Grand Prix,5
+2015,stevens,Abu Dhabi Grand Prix,2
+2016,wehrlein,Singapore Grand Prix,4
+2015,merhi,Austrian Grand Prix,1
+2016,wehrlein,Abu Dhabi Grand Prix,1
+2015,stevens,Austrian Grand Prix,4
+2016,ocon,Abu Dhabi Grand Prix,4
+2016,ocon,Singapore Grand Prix,3
+2016,haryanto,Canadian Grand Prix,4
+2015,button,Austrian Grand Prix,4
+2015,button,Abu Dhabi Grand Prix,4
+2016,button,Austrian Grand Prix,3
+2016,button,Singapore Grand Prix,4
+2016,alonso,Austrian Grand Prix,3
+2015,alonso,Canadian Grand Prix,4
+2016,button,Abu Dhabi Grand Prix,3
+2015,button,Canadian Grand Prix,1
+2015,alonso,Abu Dhabi Grand Prix,3
+2016,alonso,Singapore Grand Prix,2
+2016,alonso,Abu Dhabi Grand Prix,2
+2016,alonso,Canadian Grand Prix,5
+2016,button,Canadian Grand Prix,2
+2015,button,Russian Grand Prix,1
+2015,button,Singapore Grand Prix,3
+2015,alonso,Singapore Grand Prix,3
+2016,alonso,Monaco Grand Prix,1
+2016,button,Monaco Grand Prix,1
+2015,alonso,Russian Grand Prix,3
+2015,button,Monaco Grand Prix,4
+2015,alonso,Monaco Grand Prix,2
+2016,rosberg,Monaco Grand Prix,3
+2016,hamilton,Monaco Grand Prix,4
+2016,hamilton,Austrian Grand Prix,2
+2015,rosberg,Austrian Grand Prix,1
+2015,rosberg,Singapore Grand Prix,2
+2015,hamilton,Singapore Grand Prix,3
+2015,hamilton,Canadian Grand Prix,2
+2015,rosberg,Canadian Grand Prix,2
+2015,rosberg,Abu Dhabi Grand Prix,4
+2016,hamilton,Canadian Grand Prix,5
+2016,rosberg,Canadian Grand Prix,4
+2015,hamilton,Abu Dhabi Grand Prix,4
+2016,rosberg,Singapore Grand Prix,1
+2016,rosberg,Abu Dhabi Grand Prix,1
+2015,hamilton,Monaco Grand Prix,4
+2015,rosberg,Monaco Grand Prix,4
+2016,hamilton,Abu Dhabi Grand Prix,1
+2015,rosberg,Russian Grand Prix,4
+2015,hamilton,Russian Grand Prix,2
+2016,hamilton,Singapore Grand Prix,3
+2016,rosberg,Austrian Grand Prix,2
+2015,hamilton,Austrian Grand Prix,1
+2015,kvyat,Abu Dhabi Grand Prix,4
+2016,ricciardo,Singapore Grand Prix,2
+2015,kvyat,Austrian Grand Prix,2
+2015,kvyat,Canadian Grand Prix,2
+2016,verstappen,Abu Dhabi Grand Prix,2
+2015,kvyat,Monaco Grand Prix,4
+2015,ricciardo,Monaco Grand Prix,4
+2015,ricciardo,Austrian Grand Prix,3
+2016,ricciardo,Abu Dhabi Grand Prix,1
+2016,verstappen,Singapore Grand Prix,4
+2016,verstappen,Canadian Grand Prix,6
+2016,ricciardo,Canadian Grand Prix,4
+2016,verstappen,Monaco Grand Prix,6
+2016,ricciardo,Austrian Grand Prix,1
+2015,ricciardo,Singapore Grand Prix,1
+2015,kvyat,Singapore Grand Prix,1
+2016,verstappen,Austrian Grand Prix,1
+2016,ricciardo,Monaco Grand Prix,1
+2015,kvyat,Russian Grand Prix,2
+2015,ricciardo,Canadian Grand Prix,2
+2015,ricciardo,Russian Grand Prix,4
+2015,ricciardo,Abu Dhabi Grand Prix,4
+2016,magnussen,Austrian Grand Prix,2
+2016,palmer,Canadian Grand Prix,2
+2016,palmer,Singapore Grand Prix,2
+2016,magnussen,Canadian Grand Prix,3
+2016,magnussen,Monaco Grand Prix,6
+2016,palmer,Monaco Grand Prix,6
+2016,magnussen,Singapore Grand Prix,4
+2016,palmer,Austrian Grand Prix,2
+2016,palmer,Abu Dhabi Grand Prix,1
+2016,magnussen,Abu Dhabi Grand Prix,3
+2016,nasr,Austrian Grand Prix,5
+2015,ericsson,Austrian Grand Prix,5
+2015,nasr,Austrian Grand Prix,4
+2015,nasr,Russian Grand Prix,2
+2015,nasr,Canadian Grand Prix,2
+2015,ericsson,Canadian Grand Prix,2
+2015,ericsson,Monaco Grand Prix,5
+2015,nasr,Monaco Grand Prix,6
+2016,nasr,Monaco Grand Prix,6
+2015,ericsson,Abu Dhabi Grand Prix,1
+2016,nasr,Abu Dhabi Grand Prix,1
+2016,ericsson,Singapore Grand Prix,4
+2015,ericsson,Singapore Grand Prix,3
+2016,nasr,Canadian Grand Prix,4
+2016,ericsson,Austrian Grand Prix,2
+2016,ericsson,Canadian Grand Prix,4
+2016,ericsson,Monaco Grand Prix,6
+2015,nasr,Singapore Grand Prix,2
+2016,nasr,Singapore Grand Prix,2
+2015,nasr,Abu Dhabi Grand Prix,4
+2016,ericsson,Abu Dhabi Grand Prix,4
+2015,sainz,Austrian Grand Prix,4
+2015,verstappen,Austrian Grand Prix,1
+2016,kvyat,Abu Dhabi Grand Prix,3
+2016,kvyat,Monaco Grand Prix,6
+2015,verstappen,Abu Dhabi Grand Prix,4
+2015,sainz,Singapore Grand Prix,3
+2015,sainz,Abu Dhabi Grand Prix,4
+2015,verstappen,Singapore Grand Prix,3
+2016,kvyat,Canadian Grand Prix,6
+2016,sainz,Canadian Grand Prix,6
+2016,sainz,Monaco Grand Prix,1
+2016,kvyat,Austrian Grand Prix,4
+2015,verstappen,Monaco Grand Prix,4
+2015,sainz,Monaco Grand Prix,6
+2015,sainz,Canadian Grand Prix,2
+2016,sainz,Austrian Grand Prix,3
+2015,verstappen,Canadian Grand Prix,1
+2016,sainz,Singapore Grand Prix,2
+2016,sainz,Abu Dhabi Grand Prix,2
+2015,verstappen,Russian Grand Prix,5
+2016,kvyat,Singapore Grand Prix,4
+2015,sainz,Russian Grand Prix,4
+2016,massa,Abu Dhabi Grand Prix,1
+2015,bottas,Russian Grand Prix,2
+2015,massa,Monaco Grand Prix,5
+2015,bottas,Monaco Grand Prix,1
+2016,bottas,Singapore Grand Prix,3
+2016,massa,Austrian Grand Prix,1
+2016,bottas,Austrian Grand Prix,2
+2016,bottas,Abu Dhabi Grand Prix,3
+2015,massa,Russian Grand Prix,3
+2015,bottas,Canadian Grand Prix,2
+2015,bottas,Abu Dhabi Grand Prix,3
+2015,massa,Abu Dhabi Grand Prix,4
+2015,bottas,Singapore Grand Prix,1
+2015,massa,Singapore Grand Prix,3
+2016,massa,Monaco Grand Prix,1
+2016,bottas,Monaco Grand Prix,5
+2016,massa,Canadian Grand Prix,2
+2016,bottas,Canadian Grand Prix,5
+2016,massa,Singapore Grand Prix,4
+2015,bottas,Austrian Grand Prix,1
+2015,massa,Austrian Grand Prix,1
+2015,massa,Canadian Grand Prix,1
+2017,raikkonen,Chinese Grand Prix,2
+2017,vettel,Chinese Grand Prix,4
+2017,raikkonen,Australian Grand Prix,3
+2017,vettel,Australian Grand Prix,3
+2017,raikkonen,Italian Grand Prix,3
+2017,vettel,Italian Grand Prix,3
+2017,vettel,United States Grand Prix,3
+2017,raikkonen,United States Grand Prix,4
+2017,vettel,Russian Grand Prix,3
+2017,raikkonen,Russian Grand Prix,1
+2017,vettel,Belgian Grand Prix,1
+2017,raikkonen,Hungarian Grand Prix,3
+2017,vettel,Hungarian Grand Prix,1
+2017,vettel,Mexican Grand Prix,5
+2017,raikkonen,Mexican Grand Prix,3
+2017,vettel,Azerbaijan Grand Prix,1
+2017,raikkonen,Azerbaijan Grand Prix,1
+2017,raikkonen,Belgian Grand Prix,1
+2017,vettel,Bahrain Grand Prix,3
+2017,raikkonen,Bahrain Grand Prix,2
+2017,hulkenberg,Australian Grand Prix,1
+2017,perez,Australian Grand Prix,1
+2017,perez,Azerbaijan Grand Prix,1
+2017,hulkenberg,Russian Grand Prix,3
+2017,perez,Russian Grand Prix,1
+2017,hulkenberg,Azerbaijan Grand Prix,2
+2017,perez,Chinese Grand Prix,3
+2017,perez,Mexican Grand Prix,4
+2017,perez,United States Grand Prix,2
+2017,hulkenberg,United States Grand Prix,4
+2017,hulkenberg,Mexican Grand Prix,5
+2017,perez,Bahrain Grand Prix,4
+2017,perez,Hungarian Grand Prix,4
+2017,hulkenberg,Bahrain Grand Prix,1
+2017,hulkenberg,Hungarian Grand Prix,1
+2017,hulkenberg,Italian Grand Prix,3
+2017,perez,Italian Grand Prix,3
+2017,hulkenberg,Chinese Grand Prix,3
+2017,perez,Belgian Grand Prix,2
+2017,hulkenberg,Belgian Grand Prix,1
+2017,gutierrez,Bahrain Grand Prix,3
+2017,grosjean,Bahrain Grand Prix,2
+2017,grosjean,Italian Grand Prix,2
+2017,gutierrez,Italian Grand Prix,4
+2017,grosjean,Mexican Grand Prix,3
+2017,grosjean,Hungarian Grand Prix,1
+2017,gutierrez,Belgian Grand Prix,1
+2017,grosjean,Russian Grand Prix,1
+2017,gutierrez,Hungarian Grand Prix,1
+2017,grosjean,Belgian Grand Prix,1
+2017,gutierrez,Mexican Grand Prix,3
+2017,grosjean,Australian Grand Prix,4
+2017,gutierrez,Australian Grand Prix,3
+2017,grosjean,Azerbaijan Grand Prix,3
+2017,gutierrez,Russian Grand Prix,4
+2017,gutierrez,Azerbaijan Grand Prix,5
+2017,gutierrez,Chinese Grand Prix,4
+2017,grosjean,Chinese Grand Prix,4
+2017,grosjean,United States Grand Prix,3
+2017,gutierrez,United States Grand Prix,4
+2017,ocon,Belgian Grand Prix,2
+2017,wehrlein,Italian Grand Prix,2
+2017,wehrlein,Russian Grand Prix,1
+2017,haryanto,Azerbaijan Grand Prix,1
+2017,wehrlein,Azerbaijan Grand Prix,2
+2017,wehrlein,Hungarian Grand Prix,1
+2017,ocon,Italian Grand Prix,4
+2017,ocon,Mexican Grand Prix,4
+2017,haryanto,Hungarian Grand Prix,2
+2017,haryanto,Russian Grand Prix,3
+2017,wehrlein,Chinese Grand Prix,4
+2017,wehrlein,Bahrain Grand Prix,4
+2017,ocon,United States Grand Prix,4
+2017,haryanto,Australian Grand Prix,3
+2017,wehrlein,Australian Grand Prix,2
+2017,haryanto,Chinese Grand Prix,4
+2017,haryanto,Bahrain Grand Prix,1
+2017,wehrlein,United States Grand Prix,2
+2017,alonso,Azerbaijan Grand Prix,5
+2017,button,Australian Grand Prix,2
+2017,button,Belgian Grand Prix,2
+2017,alonso,Belgian Grand Prix,2
+2017,alonso,Australian Grand Prix,3
+2017,button,Russian Grand Prix,1
+2017,alonso,Russian Grand Prix,1
+2017,button,Bahrain Grand Prix,3
+2017,vandoorne,Bahrain Grand Prix,4
+2017,button,Azerbaijan Grand Prix,4
+2017,alonso,Chinese Grand Prix,1
+2017,button,Chinese Grand Prix,1
+2017,alonso,Mexican Grand Prix,3
+2017,button,Mexican Grand Prix,4
+2017,alonso,United States Grand Prix,2
+2017,button,United States Grand Prix,2
+2017,alonso,Hungarian Grand Prix,1
+2017,alonso,Italian Grand Prix,3
+2017,button,Italian Grand Prix,4
+2017,button,Hungarian Grand Prix,4
+2017,rosberg,United States Grand Prix,2
+2017,rosberg,Chinese Grand Prix,2
+2017,hamilton,Australian Grand Prix,1
+2017,hamilton,United States Grand Prix,3
+2017,rosberg,Azerbaijan Grand Prix,1
+2017,rosberg,Russian Grand Prix,1
+2017,hamilton,Russian Grand Prix,1
+2017,hamilton,Azerbaijan Grand Prix,1
+2017,rosberg,Italian Grand Prix,1
+2017,rosberg,Australian Grand Prix,1
+2017,hamilton,Chinese Grand Prix,4
+2017,hamilton,Belgian Grand Prix,1
+2017,hamilton,Italian Grand Prix,1
+2017,rosberg,Mexican Grand Prix,4
+2017,hamilton,Mexican Grand Prix,4
+2017,rosberg,Hungarian Grand Prix,1
+2017,rosberg,Belgian Grand Prix,2
+2017,hamilton,Hungarian Grand Prix,1
+2017,hamilton,Bahrain Grand Prix,2
+2017,rosberg,Bahrain Grand Prix,2
+2017,ricciardo,Azerbaijan Grand Prix,3
+2017,verstappen,Mexican Grand Prix,4
+2017,ricciardo,Mexican Grand Prix,3
+2017,verstappen,Azerbaijan Grand Prix,3
+2017,ricciardo,Chinese Grand Prix,3
+2017,kvyat,Chinese Grand Prix,3
+2017,verstappen,Italian Grand Prix,3
+2017,verstappen,Belgian Grand Prix,2
+2017,ricciardo,Italian Grand Prix,4
+2017,ricciardo,Belgian Grand Prix,2
+2017,verstappen,Hungarian Grand Prix,1
+2017,ricciardo,Hungarian Grand Prix,1
+2017,ricciardo,Australian Grand Prix,3
+2017,ricciardo,United States Grand Prix,3
+2017,verstappen,United States Grand Prix,4
+2017,ricciardo,Bahrain Grand Prix,4
+2017,kvyat,Russian Grand Prix,2
+2017,ricciardo,Russian Grand Prix,2
+2017,kvyat,Bahrain Grand Prix,4
+2017,palmer,Chinese Grand Prix,4
+2017,magnussen,Chinese Grand Prix,3
+2017,magnussen,Belgian Grand Prix,2
+2017,palmer,Belgian Grand Prix,1
+2017,magnussen,Hungarian Grand Prix,4
+2017,palmer,Hungarian Grand Prix,4
+2017,palmer,Azerbaijan Grand Prix,5
+2017,magnussen,Azerbaijan Grand Prix,1
+2017,magnussen,Russian Grand Prix,1
+2017,palmer,Russian Grand Prix,1
+2017,palmer,Italian Grand Prix,2
+2017,magnussen,Italian Grand Prix,4
+2017,palmer,United States Grand Prix,3
+2017,magnussen,Bahrain Grand Prix,4
+2017,palmer,Bahrain Grand Prix,3
+2017,magnussen,United States Grand Prix,3
+2017,magnussen,Australian Grand Prix,1
+2017,palmer,Australian Grand Prix,1
+2017,palmer,Mexican Grand Prix,5
+2017,magnussen,Mexican Grand Prix,4
+2017,nasr,Azerbaijan Grand Prix,4
+2017,ericsson,Russian Grand Prix,3
+2017,ericsson,Azerbaijan Grand Prix,2
+2017,ericsson,Italian Grand Prix,1
+2017,ericsson,United States Grand Prix,1
+2017,nasr,United States Grand Prix,4
+2017,nasr,Italian Grand Prix,2
+2017,nasr,Russian Grand Prix,1
+2017,ericsson,Bahrain Grand Prix,1
+2017,nasr,Bahrain Grand Prix,1
+2017,nasr,Chinese Grand Prix,1
+2017,ericsson,Belgian Grand Prix,2
+2017,nasr,Australian Grand Prix,1
+2017,ericsson,Australian Grand Prix,1
+2017,ericsson,Chinese Grand Prix,1
+2017,ericsson,Mexican Grand Prix,5
+2017,ericsson,Hungarian Grand Prix,3
+2017,nasr,Hungarian Grand Prix,1
+2017,nasr,Mexican Grand Prix,2
+2017,nasr,Belgian Grand Prix,1
+2017,verstappen,Australian Grand Prix,2
+2017,sainz,Australian Grand Prix,2
+2017,kvyat,Hungarian Grand Prix,3
+2017,kvyat,Mexican Grand Prix,1
+2017,sainz,Belgian Grand Prix,2
+2017,sainz,Hungarian Grand Prix,1
+2017,kvyat,Belgian Grand Prix,2
+2017,verstappen,Russian Grand Prix,3
+2017,sainz,Russian Grand Prix,1
+2017,kvyat,Azerbaijan Grand Prix,5
+2017,sainz,Azerbaijan Grand Prix,5
+2017,verstappen,Bahrain Grand Prix,1
+2017,sainz,Bahrain Grand Prix,3
+2017,sainz,Mexican Grand Prix,5
+2017,sainz,United States Grand Prix,4
+2017,sainz,Italian Grand Prix,2
+2017,sainz,Chinese Grand Prix,3
+2017,verstappen,Chinese Grand Prix,2
+2017,kvyat,United States Grand Prix,1
+2017,kvyat,Italian Grand Prix,4
+2017,bottas,Azerbaijan Grand Prix,1
+2017,massa,Russian Grand Prix,1
+2017,bottas,Russian Grand Prix,1
+2017,massa,Azerbaijan Grand Prix,4
+2017,bottas,Chinese Grand Prix,3
+2017,massa,Chinese Grand Prix,2
+2017,massa,Australian Grand Prix,1
+2017,massa,Hungarian Grand Prix,2
+2017,bottas,Mexican Grand Prix,5
+2017,massa,Bahrain Grand Prix,1
+2017,bottas,Hungarian Grand Prix,1
+2017,bottas,United States Grand Prix,3
+2017,massa,Belgian Grand Prix,1
+2017,bottas,Australian Grand Prix,1
+2017,bottas,Belgian Grand Prix,1
+2017,massa,United States Grand Prix,3
+2017,massa,Italian Grand Prix,4
+2017,massa,Mexican Grand Prix,5
+2017,bottas,Italian Grand Prix,3
+2017,bottas,Bahrain Grand Prix,1
+2017,raikkonen,British Grand Prix,2
+2017,vettel,British Grand Prix,2
+2017,raikkonen,Malaysian Grand Prix,4
+2017,vettel,Japanese Grand Prix,4
+2017,raikkonen,Brazilian Grand Prix,1
+2017,vettel,Brazilian Grand Prix,1
+2017,raikkonen,Japanese Grand Prix,1
+2017,vettel,Spanish Grand Prix,3
+2017,raikkonen,Spanish Grand Prix,1
+2017,perez,Spanish Grand Prix,1
+2017,hulkenberg,Spanish Grand Prix,2
+2017,perez,Japanese Grand Prix,4
+2017,hulkenberg,Malaysian Grand Prix,1
+2017,hulkenberg,Brazilian Grand Prix,1
+2017,perez,Malaysian Grand Prix,1
+2017,perez,Brazilian Grand Prix,1
+2017,hulkenberg,Japanese Grand Prix,4
+2017,perez,British Grand Prix,2
+2017,hulkenberg,British Grand Prix,2
+2017,gutierrez,Brazilian Grand Prix,1
+2017,gutierrez,Spanish Grand Prix,2
+2017,grosjean,Spanish Grand Prix,2
+2017,gutierrez,Japanese Grand Prix,1
+2017,gutierrez,Malaysian Grand Prix,2
+2017,gutierrez,British Grand Prix,2
+2017,grosjean,British Grand Prix,1
+2017,grosjean,Malaysian Grand Prix,2
+2017,grosjean,Japanese Grand Prix,1
+2017,wehrlein,Brazilian Grand Prix,1
+2017,ocon,Brazilian Grand Prix,1
+2017,wehrlein,Spanish Grand Prix,1
+2017,ocon,Malaysian Grand Prix,4
+2017,haryanto,British Grand Prix,1
+2017,wehrlein,Malaysian Grand Prix,4
+2017,haryanto,Spanish Grand Prix,4
+2017,wehrlein,British Grand Prix,1
+2017,wehrlein,Japanese Grand Prix,1
+2017,ocon,Japanese Grand Prix,1
+2017,button,Spanish Grand Prix,1
+2017,button,British Grand Prix,2
+2017,alonso,Brazilian Grand Prix,1
+2017,button,Brazilian Grand Prix,1
+2017,alonso,British Grand Prix,2
+2017,alonso,Spanish Grand Prix,4
+2017,button,Japanese Grand Prix,2
+2017,alonso,Japanese Grand Prix,1
+2017,button,Malaysian Grand Prix,4
+2017,alonso,Malaysian Grand Prix,4
+2017,hamilton,Japanese Grand Prix,1
+2017,rosberg,Brazilian Grand Prix,1
+2017,hamilton,Brazilian Grand Prix,1
+2017,hamilton,Spanish Grand Prix,2
+2017,rosberg,Spanish Grand Prix,2
+2017,rosberg,Japanese Grand Prix,1
+2017,hamilton,Malaysian Grand Prix,2
+2017,rosberg,Malaysian Grand Prix,4
+2017,rosberg,British Grand Prix,2
+2017,hamilton,British Grand Prix,2
+2017,ricciardo,Brazilian Grand Prix,1
+2017,verstappen,Brazilian Grand Prix,1
+2017,verstappen,Japanese Grand Prix,1
+2017,ricciardo,Japanese Grand Prix,1
+2017,ricciardo,Malaysian Grand Prix,4
+2017,verstappen,Malaysian Grand Prix,2
+2017,ricciardo,British Grand Prix,2
+2017,verstappen,British Grand Prix,2
+2017,verstappen,Spanish Grand Prix,1
+2017,ricciardo,Spanish Grand Prix,3
+2017,palmer,Spanish Grand Prix,4
+2017,palmer,Malaysian Grand Prix,2
+2017,magnussen,Brazilian Grand Prix,1
+2017,palmer,British Grand Prix,1
+2017,magnussen,Japanese Grand Prix,2
+2017,magnussen,Malaysian Grand Prix,2
+2017,palmer,Brazilian Grand Prix,1
+2017,palmer,Japanese Grand Prix,3
+2017,magnussen,British Grand Prix,2
+2017,magnussen,Spanish Grand Prix,4
+2017,nasr,Malaysian Grand Prix,3
+2017,ericsson,Japanese Grand Prix,3
+2017,nasr,British Grand Prix,2
+2017,ericsson,Malaysian Grand Prix,2
+2017,ericsson,Brazilian Grand Prix,1
+2017,nasr,Brazilian Grand Prix,1
+2017,nasr,Spanish Grand Prix,1
+2017,ericsson,British Grand Prix,1
+2017,ericsson,Spanish Grand Prix,2
+2017,nasr,Japanese Grand Prix,2
+2017,sainz,British Grand Prix,2
+2017,sainz,Malaysian Grand Prix,4
+2017,kvyat,Malaysian Grand Prix,4
+2017,kvyat,British Grand Prix,2
+2017,sainz,Japanese Grand Prix,4
+2017,sainz,Spanish Grand Prix,1
+2017,kvyat,Brazilian Grand Prix,1
+2017,kvyat,Spanish Grand Prix,1
+2017,sainz,Brazilian Grand Prix,1
+2017,kvyat,Japanese Grand Prix,1
+2017,massa,Spanish Grand Prix,3
+2017,massa,Brazilian Grand Prix,1
+2017,bottas,Brazilian Grand Prix,1
+2017,massa,Japanese Grand Prix,3
+2017,massa,British Grand Prix,2
+2017,bottas,British Grand Prix,2
+2017,bottas,Spanish Grand Prix,1
+2017,massa,Malaysian Grand Prix,1
+2017,bottas,Japanese Grand Prix,3
+2017,bottas,Malaysian Grand Prix,3
+2017,vettel,Monaco Grand Prix,2
+2017,raikkonen,Monaco Grand Prix,6
+2017,raikkonen,Austrian Grand Prix,1
+2017,raikkonen,Canadian Grand Prix,1
+2017,vettel,Canadian Grand Prix,1
+2017,vettel,Singapore Grand Prix,3
+2017,raikkonen,Abu Dhabi Grand Prix,1
+2017,vettel,Abu Dhabi Grand Prix,2
+2017,raikkonen,Singapore Grand Prix,2
+2017,vettel,Austrian Grand Prix,4
+2017,perez,Singapore Grand Prix,1
+2017,hulkenberg,Singapore Grand Prix,3
+2017,perez,Abu Dhabi Grand Prix,1
+2017,hulkenberg,Monaco Grand Prix,2
+2017,perez,Monaco Grand Prix,2
+2017,hulkenberg,Austrian Grand Prix,3
+2017,hulkenberg,Abu Dhabi Grand Prix,1
+2017,perez,Austrian Grand Prix,3
+2017,hulkenberg,Canadian Grand Prix,4
+2017,perez,Canadian Grand Prix,1
+2017,gutierrez,Singapore Grand Prix,3
+2017,grosjean,Abu Dhabi Grand Prix,4
+2017,gutierrez,Abu Dhabi Grand Prix,1
+2017,gutierrez,Monaco Grand Prix,3
+2017,grosjean,Monaco Grand Prix,3
+2017,grosjean,Austrian Grand Prix,1
+2017,grosjean,Canadian Grand Prix,6
+2017,gutierrez,Austrian Grand Prix,3
+2017,gutierrez,Canadian Grand Prix,6
+2017,wehrlein,Canadian Grand Prix,4
+2017,wehrlein,Monaco Grand Prix,4
+2017,haryanto,Monaco Grand Prix,5
+2017,wehrlein,Austrian Grand Prix,3
+2017,haryanto,Austrian Grand Prix,5
+2017,wehrlein,Singapore Grand Prix,4
+2017,wehrlein,Abu Dhabi Grand Prix,1
+2017,ocon,Abu Dhabi Grand Prix,4
+2017,ocon,Singapore Grand Prix,3
+2017,haryanto,Canadian Grand Prix,4
+2017,button,Austrian Grand Prix,3
+2017,button,Singapore Grand Prix,4
+2017,alonso,Austrian Grand Prix,3
+2017,button,Abu Dhabi Grand Prix,3
+2017,alonso,Singapore Grand Prix,2
+2017,alonso,Abu Dhabi Grand Prix,2
+2017,alonso,Canadian Grand Prix,5
+2017,button,Canadian Grand Prix,2
+2017,alonso,Monaco Grand Prix,1
+2017,button,Monaco Grand Prix,1
+2017,rosberg,Monaco Grand Prix,3
+2017,hamilton,Monaco Grand Prix,4
+2017,hamilton,Austrian Grand Prix,2
+2017,hamilton,Canadian Grand Prix,5
+2017,rosberg,Canadian Grand Prix,4
+2017,rosberg,Singapore Grand Prix,1
+2017,rosberg,Abu Dhabi Grand Prix,1
+2017,hamilton,Abu Dhabi Grand Prix,1
+2017,hamilton,Singapore Grand Prix,3
+2017,rosberg,Austrian Grand Prix,2
+2017,ricciardo,Singapore Grand Prix,2
+2017,verstappen,Abu Dhabi Grand Prix,2
+2017,ricciardo,Abu Dhabi Grand Prix,1
+2017,verstappen,Singapore Grand Prix,4
+2017,verstappen,Canadian Grand Prix,6
+2017,ricciardo,Canadian Grand Prix,4
+2017,verstappen,Monaco Grand Prix,6
+2017,ricciardo,Austrian Grand Prix,1
+2017,verstappen,Austrian Grand Prix,1
+2017,ricciardo,Monaco Grand Prix,1
+2017,magnussen,Austrian Grand Prix,2
+2017,palmer,Canadian Grand Prix,2
+2017,palmer,Singapore Grand Prix,2
+2017,magnussen,Canadian Grand Prix,3
+2017,magnussen,Monaco Grand Prix,6
+2017,palmer,Monaco Grand Prix,6
+2017,magnussen,Singapore Grand Prix,4
+2017,palmer,Austrian Grand Prix,2
+2017,palmer,Abu Dhabi Grand Prix,1
+2017,magnussen,Abu Dhabi Grand Prix,3
+2017,nasr,Austrian Grand Prix,5
+2017,nasr,Monaco Grand Prix,6
+2017,nasr,Abu Dhabi Grand Prix,1
+2017,ericsson,Singapore Grand Prix,4
+2017,nasr,Canadian Grand Prix,4
+2017,ericsson,Austrian Grand Prix,2
+2017,ericsson,Canadian Grand Prix,4
+2017,ericsson,Monaco Grand Prix,6
+2017,nasr,Singapore Grand Prix,2
+2017,ericsson,Abu Dhabi Grand Prix,4
+2017,kvyat,Abu Dhabi Grand Prix,3
+2017,kvyat,Monaco Grand Prix,6
+2017,kvyat,Canadian Grand Prix,6
+2017,sainz,Canadian Grand Prix,6
+2017,sainz,Monaco Grand Prix,1
+2017,kvyat,Austrian Grand Prix,4
+2017,sainz,Austrian Grand Prix,3
+2017,sainz,Singapore Grand Prix,2
+2017,sainz,Abu Dhabi Grand Prix,2
+2017,kvyat,Singapore Grand Prix,4
+2017,massa,Abu Dhabi Grand Prix,1
+2017,bottas,Singapore Grand Prix,3
+2017,massa,Austrian Grand Prix,1
+2017,bottas,Austrian Grand Prix,2
+2017,bottas,Abu Dhabi Grand Prix,3
+2017,massa,Monaco Grand Prix,1
+2017,bottas,Monaco Grand Prix,5
+2017,massa,Canadian Grand Prix,2
+2017,bottas,Canadian Grand Prix,5
+2017,massa,Singapore Grand Prix,4

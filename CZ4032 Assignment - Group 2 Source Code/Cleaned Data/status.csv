@@ -1,0 +1,135 @@
+statusId,status,error_catagory
+1,Finished,Finished
+2,Disqualified,Team
+3,Accident,Track
+4,Collision,Track
+5,Engine,Constructor
+6,Gearbox,Constructor
+7,Transmission,Constructor
+8,Clutch,Constructor
+9,Hydraulics,Constructor
+10,Electrical,Constructor
+11,+1 Lap,Finished
+12,+2 Laps,Finished
+13,+3 Laps,Finished
+14,+4 Laps,Finished
+15,+5 Laps,Finished
+16,+6 Laps,Finished
+17,+7 Laps,Finished
+18,+8 Laps,Finished
+19,+9 Laps,Finished
+20,Spun off,Driver
+21,Radiator,Constructor
+22,Suspension,Constructor
+23,Brakes,Constructor
+24,Differential,Constructor
+25,Overheating,Constructor
+26,Mechanical,Constructor
+27,Tyre,Constructor
+28,Driver Seat,
+29,Puncture,Constructor
+30,Driveshaft,Constructor
+31,Retired,Constructor
+32,Fuel pressure,Constructor
+33,Front wing,Constructor
+34,Water pressure,Constructor
+35,Refuelling,Constructor
+36,Wheel,Constructor
+37,Throttle,Constructor
+38,Steering,Team
+39,Technical,Constructor
+40,Electronics,Constructor
+41,Broken wing,Driver
+42,Heat shield fire,Constructor
+43,Exhaust,Constructor
+44,Oil leak,Constructor
+45,+11 Laps,Finished
+46,Wheel rim,Constructor
+47,Water leak,Constructor
+48,Fuel pump,Constructor
+49,Track rod,Constructor
+50,+17 Laps,Finished
+51,Oil pressure,Constructor
+128,+42 Laps,Finished
+53,+13 Laps,Finished
+54,Withdrew,Team
+55,+12 Laps,Finished
+56,Engine fire,Constructor
+129,Engine misfire,Constructor
+58,+26 Laps,Finished
+59,Tyre puncture,Constructor
+60,Out of fuel,Team
+61,Wheel nut,Constructor
+62,Not classified,
+63,Pneumatics,Constructor
+64,Handling,Constructor
+65,Rear wing,Constructor
+66,Fire,Constructor
+67,Wheel bearing,Constructor
+68,Physical,Constructor
+69,Fuel system,Constructor
+70,Oil line,Constructor
+71,Fuel rig,Constructor
+72,Launch control,Constructor
+73,Injured,
+74,Fuel,Constructor
+75,Power loss,Constructor
+76,Vibrations,Constructor
+77,107% Rule,
+78,Safety,
+79,Drivetrain,Constructor
+80,Ignition,Constructor
+81,Did not qualify,Team
+82,Injury,
+83,Chassis,Constructor
+84,Battery,Constructor
+85,Stalled,Team
+86,Halfshaft,Constructor
+87,Crankshaft,Constructor
+88,+10 Laps,Finished
+89,Safety concerns,
+90,Not restarted,
+91,Alternator,Constructor
+92,Underweight,
+93,Safety belt,Constructor
+94,Oil pump,Constructor
+95,Fuel leak,Constructor
+96,Excluded,
+97,Did not prequalify,
+98,Injection,
+99,Distributor,
+100,Driver unwell,
+101,Turbo,Constructor
+102,CV joint,Constructor
+103,Water pump,Constructor
+104,Fatal accident,
+105,Spark plugs,Constructor
+106,Fuel pipe,Constructor
+107,Eye injury,Constructor
+108,Oil pipe,Constructor
+109,Axle,Constructor
+110,Water pipe,Constructor
+111,+14 Laps,Finished
+112,+15 Laps,Finished
+113,+25 Laps,Finished
+114,+18 Laps,Finished
+115,+22 Laps,Finished
+116,+16 Laps,Finished
+117,+24 Laps,Finished
+118,+29 Laps,Finished
+119,+23 Laps,Finished
+120,+21 Laps,Finished
+121,Magneto,Constructor
+122,+44 Laps,Finished
+123,+30 Laps,Finished
+124,+19 Laps,Finished
+125,+46 Laps,Finished
+126,Supercharger,Constructor
+127,+20 Laps,Finished
+130,Collision damage,Constructor
+131,Power Unit,Constructor
+132,ERS,Constructor
+133,+49 Laps,Finished
+134,+38 Laps,Finished
+135,Brake duct,Constructor
+136,Seat,
